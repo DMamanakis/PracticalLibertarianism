@@ -1,0 +1,60 @@
+>>>
+Chapter ID: MC-P0-C600
+Title: Purpose and Method
+Status: DRAFTING
+
+Requirements:
+- MC-P0-C601 - Explain the book's purpose and methodology.
+- MC-P0-C602 - Explain the intended audience.
+- MC-P0-C603 - Explain the scope of the work.
+- MC-P0-C604 - Explain why this methodology was chosen.
+- MC-P0-C605 - Explain the relationship between philosophy and implementation.
+- MC-P0-C606 — State the primary objective of the book.
+- MC-P0-C607 — Explain why practical solutions are emphasized over ideological purity.
+- MC-P0-C608 — Explain that constitutional constraints are treated as governing design requirements.
+- MC-P0-C609 — Explain that proposals are intended to be implementable.
+- MC-P0-C610 — Explain the relationship between liberty and responsibility.
+- MC-P0-C611 — Explain how proposals are evaluated throughout the book.
+
+Primary Source Conversations:
+- docs/Conversations/Conversation 0001.txt
+
+Last Updated:
+- 2026-07-22
+<<<
+
+1. Purpose
+    * Why this book exists.
+    * The problem it attempts to address.
+2. Scope
+    * What the book covers.
+    * What it intentionally does not cover.
+3. Method
+    * How constitutional interpretation is used.
+    * How proposals are evaluated.
+    * Why practical implementation matters.
+4. Organization
+    * Explain Parts, Chapters, Research Papers, and Proposals.
+    * Explain that supporting documents provide detailed evidence while the manifesto presents the principles and recommendations.
+5. Invitation
+    * Encourage the reader to evaluate each proposal on its constitutional merits, practical feasibility, and respect for individual liberty rather than partisan affiliation.
+
+Many of the existing books tend to explain what libertarianism is. That is useful for understanding the principles, but it doesn't change or alter our current reality. This book asks what practical steps could move the United States closer to those principles from where it is today. I haven't found another book that drives at these questions in a practical way, and I hope this book will fill that gap.
+
+This book is not an attempt to describe an ideal society. It is an attempt to describe how a free people can govern themselves within the practical limits of human nature, constitutional government, and the rule of law.
+
+Throughout history, political philosophies have often been judged by how well they describe a perfect world. This book takes a different approach. Rather than asking what government could accomplish under ideal conditions, it addresses more what People could accomplish under ideal conditions. This book asks what government should be permitted to do within the constitutional framework established by the American people, not what the people should be permitted to do within the constitutional framework. and how those powers can be exercised while preserving the greatest possible degree of individual liberty.
+
+Freedom is not preserved by reducing government at every opportunity. Freedom is preserved by ensuring that government acts only within its legitimate constitutional authority.
+
+There are constitutional principles worth preserving. The existing political parties have drifted away from many of those principles. This book explores whether practical reforms, grounded in constitutional government and individual liberty, can help restore them.
+
+Libertarianism contains principles that deserve to be taken seriously because they provide practical tools for restoring constitutional government, but not just restoring, maintaining a constitutional government.
+
+We can’t go back. We can only fail forward.
+We inherit the country we have, not the country we wish we had.
+We need a book that addresses the practical steps that can be taken to restore constitutional government and individual liberty, rather than just describing an ideal society. This book aims to provide a roadmap for achieving those goals within the constraints of our current political and social realities.
+
+Years of political involvement convinced me that neither major party, nor the existing alternatives, adequately addressed the practical question that mattered most to me: how can constitutional principles be restored within the political and legal realities of modern America?
+
+My faith is one reason I feel compelled to undertake this work. The arguments presented in this book, however, are grounded in constitutional structure, history, and practical governance so that they may be evaluated on their own merits regardless of the reader’s religious beliefs.

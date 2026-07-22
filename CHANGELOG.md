@@ -6,6 +6,14 @@ This project follows a running engineering-style changelog.
 
 ### Added
 
+-   Initial Part 0 front-matter workspace with Preface and Purpose and Method
+    drafts, plus planned Definitions, Methodology, and scope documents
+-   Part 1 Practical Libertarianism manuscript workspace
+-   Conversation archive workspace for Conversations 0001–0030, with source
+    content imported through Conversation 0024
+-   Publication-package template for summaries, positioning, marketing, and
+    author materials
+-   Expanded front-matter requirements, acceptance criteria, and source links
 -   Canonical identifier system for manuscript chapters, research papers,
     proposals, references, and project work
 -   Consolidated organizational chart, traceability registers, and backlog in
@@ -27,6 +35,10 @@ This project follows a running engineering-style changelog.
 
 ### Changed
 
+-   Extended the identifier convention to support four-digit hundred blocks when
+    a part contains ten or more parent documents
+-   Corrected the conversation archive path and aligned front-matter records with
+    their actual `.txt` files
 -   Aligned repository, contribution, architecture, and style guidance with the
     canonical requirements specification
 

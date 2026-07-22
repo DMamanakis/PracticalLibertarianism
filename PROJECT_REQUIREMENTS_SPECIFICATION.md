@@ -41,11 +41,14 @@ short-term assignments, but they do not replace this record.
 
 `TYPE-P#-C### - Title or description`
 
+The `C` segment uses at least three digits. It may expand to four digits when a
+part contains ten or more parent documents (for example, `C1000`).
+
 | Segment | Meaning | Examples |
 | --- | --- | --- |
 | `TYPE` | Kind of project material | `MC`, `RP`, `PR`, `R`, `PJ` |
 | `P#` | Book part primarily supported; `P0` is project-wide/front matter | `P0`–`P5` |
-| `C###` | Parent document or work item within a hundred block | `C100`, `C101` |
+| `C###` or `C####` | Parent document or work item within a hundred block | `C100`, `C101`, `C1000` |
 
 ### 3.2 Type Codes
 
@@ -125,47 +128,19 @@ identifiers remain stable.
 
 #### MC-P0-C000 - Governing Documents
 
-##### MC-P0-C001 - Project Charter
 - **Status:** DRAFTING
-- **File:** `PROJECT_CHARTER.md`
-- [x] MC-P0-C001 - State the book's governing purpose and core themes.
-- [ ] MC-P0-C002 - Review against the completed manuscript.
-
-##### MC-P0-C002 - Project Requirements Specification
-- **Status:** DRAFTING
-- **File:** `PROJECT_REQUIREMENTS_SPECIFICATION.md`
-- [x] MC-P0-C003 - Define the project scope, audience, and publication goals.
-- [ ] MC-P0-C004 - Review against the completed manuscript.
-
-##### MC-P0-C003 - Agents
-- **Status:** DRAFTING
-- **File:** `AGENTS.md`
-- [x] MC-P0-C005 - Define the roles and responsibilities of project agents.
-- [ ] MC-P0-C006 - Review against the completed manuscript.
-
-##### MC-P0-C004 - Change Log
-- **Status:** DRAFTING
-- **File:** `CHANGELOG.md`
-- [x] MC-P0-C007 - Document changes and updates to the project.
-- [ ] MC-P0-C008 - Review against the completed manuscript.
-
-##### MC-P0-C005 - Hostile Review Process
-- **Status:** DRAFTING
-- **File:** `HOSTILE_REVIEW.md`
-- [x] MC-P0-C009 - Define the hostile review process.
-- [ ] MC-P0-C010 - Review against the completed manuscript.
-
-##### MC-P0-C006 - Readme
-- **Status:** DRAFTING
-- **File:** `README.md`
-- [x] MC-P0-C006 - Describes the project scope, audience, and publication goals.
-- [ ] MC-P0-C007 - Review against the completed manuscript.
-
-##### MC-P0-C007 - Style Guide
-- **Status:** DRAFTING
-- **File:** `STYLE_GUIDE.md`
-- [x] MC-P0-C007 - Describes the project Style Guide.
-- [ ] MC-P0-C008 - Review against the completed manuscript.
+- **Files:** `PROJECT_CHARTER.md`, `PROJECT_REQUIREMENTS_SPECIFICATION.md`,
+  `AGENTS.md`, `CHANGELOG.md`, `HOSTILE_REVIEW.md`, `README.md`, and
+  `STYLE_GUIDE.md`
+- [x] MC-P0-C001 - Establish the Project Charter.
+- [x] MC-P0-C002 - Establish the authoritative Project Requirements Specification.
+- [x] MC-P0-C003 - Define contributor roles and responsibilities in `AGENTS.md`.
+- [x] MC-P0-C004 - Establish the project changelog.
+- [x] MC-P0-C005 - Define the Hostile Review process.
+- [x] MC-P0-C006 - Describe the project scope, structure, and publication goals in
+      `README.md`.
+- [x] MC-P0-C007 - Establish the project Style Guide.
+- [ ] MC-P0-C008 - Review all governing documents against the completed manuscript.
 
 #### MC-P0-C100 - Title Page
 
@@ -193,18 +168,40 @@ identifiers remain stable.
 
 #### MC-P0-C500 - Preface
 
-- **Status:** PLANNED
-- **File:** `Preface.md`
-- [ ] MC-P0-C501 - My personal reason for writing this book.
+- **Status:** DRAFTING
+- **File:** `Manifesto Chapters/Part 0 - Front Matter/Preface.txt`
+- [x] MC-P0-C501 - Explain my personal reason for writing this book.
+- [ ] MC-P0-C502 — Explain why another book on libertarianism is needed.
+- [ ] MC-P0-C503 — Explain the practical problem this book attempts to solve.
+- [ ] MC-P0-C504 — Describe the intended audience.
+- [ ] MC-P0-C505 — Set expectations for the tone and approach of the book.
 
 #### MC-P0-C600 - Purpose and Method
 
-- **Status:** PLANNED
-- **File:** `Purpose_and_Method.md`
-- [ ] MC-P0-C601 - Explain the book's purpose.
-- [ ] MC-P0-C602 - Explain why another libertarian book is needed.
-- [ ] MC-P0-C603 - Explain the intended audience.
-- [ ] MC-P0-C604 - Explain how arguments are developed.
+- **Status:** DRAFTING
+- **File:** `Manifesto Chapters/Part 0 - Front Matter/Purpose_and_Method.txt`
+- **Sources:** `docs/Conversations/Conversation 0001.txt` through
+  `Conversation 0004.txt`
+- [ ] MC-P0-C601 - Explain the book's purpose and methodology.
+- [ ] MC-P0-C602 - Explain the intended audience.
+- [ ] MC-P0-C603 - Explain the scope of the work.
+- [ ] MC-P0-C604 - Explain why this methodology was chosen.
+- [ ] MC-P0-C605 - Explain the relationship between philosophy and implementation.
+- [ ] MC-P0-C606 — State the primary objective of the book.
+- [ ] MC-P0-C607 — Explain why practical solutions are emphasized over ideological purity.
+- [ ] MC-P0-C608 — Explain that constitutional constraints are treated as governing design requirements.
+- [ ] MC-P0-C609 — Explain that proposals are intended to be implementable.
+- [ ] MC-P0-C610 — Explain the relationship between liberty and responsibility.
+- [ ] MC-P0-C611 — Explain how proposals are evaluated throughout the book.
+
+**Acceptance criteria:**
+
+- [ ] The Constitution is presented as the controlling framework rather than a
+      source of optional guidance.
+- [ ] Readers understand that proposed reforms must fit within existing
+      constitutional authority unless accompanied by a proposed amendment.
+- [ ] The distinction between constitutional interpretation and policy
+      preference is made explicit.
 
 #### MC-P0-C700 - How to Read This Book
 
@@ -215,27 +212,48 @@ identifiers remain stable.
 #### MC-P0-C800 - What This Book Is Not
 
 - **Status:** PLANNED
-- **File:** `What_This_Book_Is_Not.md`
-- [ ] MC-P0-C801 - Clarify misconceptions and limitations of the book.
+- **File:** `Manifesto Chapters/Part 0 - Front Matter/What_This_Book_Is_Not.txt`
+- [ ] MC-P0-C801 - Distinguish from anarchism.
+- [ ] MC-P0-C802 - Distinguish from authoritarian conservatism.
+- [ ] MC-P0-C803 - Distinguish from partisan politics.
+- [ ] MC-P0-C804 - Explain why ideological purity is not the objective.
+- [ ] MC-P0-C805 — Explain the organization of the book.
+- [ ] MC-P0-C806 — Explain how Parts, Chapters, Research Papers, and Proposals relate to each other.
+- [ ] MC-P0-C807 — Explain how constitutional references are used.
+- [ ] MC-P0-C808 — Explain the distinction between philosophy, policy, and implementation.
 
 #### MC-P0-C900 - Definitions
 
 - **Status:** PLANNED
-- **File:** `Definitions.md`
+- **File:** `Manifesto Chapters/Part 0 - Front Matter/Definitions.txt`
 - [ ] MC-P0-C901 - Define key terms and concepts used in the book.
+- [ ] MC-P0-C902 — Define Liberty.
+- [ ] MC-P0-C903 — Define Rights.
+- [ ] MC-P0-C904 — Define Government.
+- [ ] MC-P0-C905 — Define Federalism.
+- [ ] MC-P0-C906 — Define Originalism.
+- [ ] MC-P0-C907 — Define Enumerated Powers.
+- [ ] MC-P0-C908 — Define Due Process.
+- [ ] MC-P0-C909 — Define Property Rights.
 
 #### MC-P0-C1000 - Methodology
 
 - **Status:** PLANNED
-- **File:** `Methodology.md`
+- **File:** `Manifesto Chapters/Part 0 - Front Matter/Methodology.txt`
 - [ ] MC-P0-C1001 - Explain original public meaning and interpretive limits.
 - [ ] MC-P0-C1002 - Explain enumerated powers.
 - [ ] MC-P0-C1003 - Explain federalism and reserved powers.
-- [ ] MC-P0-C1004 - Explain burden of proof.
+- [ ] MC-P0-C1004 - Explain burden of proof for proposed reforms.
 - [ ] MC-P0-C1005 - Explain constitutional hierarchy.
 - [ ] MC-P0-C1006 - Explain evidence hierarchy.
 - [ ] MC-P0-C1007 - Distinguishing opinion from recommendation.
 - [ ] MC-P0-C1008 - Explain what constitutes a constitutional amendment vs legislation.
+- [ ] MC-P0-C1009 - Explain how competing principles are evaluated.
+- [ ] MC-P0-C1010 — Distinguish constitutional amendments from legislation.
+- [ ] MC-P0-C1011 — Explain how historical evidence is evaluated.
+- [ ] MC-P0-C1012 — Explain how conflicting principles are resolved.
+- [ ] MC-P0-C1013 — Explain why constitutional interpretation precedes policy preferences.
+- [ ] MC-P0-C1014 — Explain why implementation matters as much as philosophy.
 
 #### MC-P0-C1100 - Bibliography
 

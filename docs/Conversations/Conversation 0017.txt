@@ -1,0 +1,593 @@
+With some of my current conversations, I'd like to list 3 conversations (Chapters? Sections?) for my book... (yes, I've been busy with other things, time to get back at it)...
+
+1) Land Policy of the US.
+In the constitution we have an outline of what land the Federal Government CAN own, and it isn't a very big list... we shouldn't even, for the sake of this conversation, consider any of the Antiquities Act, etc, as it appears to give the government too much power in the acquisition and disposal of land.
+When a Territory becomes a State, the Government SHOULD cede all land within the borders of the State to the State... we might be able to argue, this doesn't close off those lands at the state borders, and we cannot block waterways, etc, as these features (lakes, etc) are a special category? (how would you block a river from entering into another state, etc) ...
+The reason for this topic, right now, is a conversation about how a government might be useful in preventing fights between states over land disputes... especially if the land belongs to the state, not undisputed land, like a territory...
+But also that we need a way to prevent people, individuals, from just claiming all the unused land within a state as their own, and preventing others from having the use of it.
+We have talked about "public" vs "private" land before and that there is, maybe, a place for public land in a libertarian framework... like with the Grand Canyon... but specifically NOT by the Federal Government, for anything but an advisory role, etc...
+This part is more about (unless we have gone over it, it has been a while) the Federal Government's claim over the majority of States like Utah and Nevada...
+How is that justified by the Constitution, and by the organizing of a State, a state which still doesn't control the land within its borders... that seems like a contradiction.
+
+2) Military.
+Again, I don't remember if we talked about this...
+But we need something of a standing military to operate things like our nuclear arsenal, our nuclear subs, etc... and especially to operate other specialized equipment, like a fighter jet.
+But we shouldn't have as large an military, and maybe we need to consider not having a full, standing military at the Federal Level, but letting the states maintain a "National Guard" style "distributed military" where they receive training: Navy, Airforce, etc... in the state, so they are up to the task of defending the country ... until a "regular military" can be raised by the Federal Government to send/lend aid to those troops via a draft or other mechanism...
+But how do we do it so that we have "enough of a military" to send to the borders, or to the coast, without getting stompped on by the "enemy", but lasting long enough for the 8 months or so to raise enough troops to come "do the job"...?
+It would be up to the states to do... but should it be required, or voluntary, etc, etc... I have thoughts, but nothing of substance.
+
+3) Thos whole argument going on, right now, about the NVRA, the Voting Rights Act, and the current desire for the Save Act has many people claiming the Federal Government is interfering in State affairs...
+Is there a role for the Federal Government to regulate voter rolls, or at least VERIFY them, to amke sure the states are being corrupted and unfair to the people... as an advisor, or enforcer of "fair" elections? It kindof makes sense, but what is authorized (exactly) by the Constitution, and how is that affected by legislation like the NVRA, the Voting Rights Act, or even the Save Act? Do these acts clarify the Government's role, and or do they alter it, usurping power the Federal GOvernment shouldn't have?
+
+Let's start with the first one, and then ask before we continue on with the 2nd and 3rd...
+
+
+
+
+
+
+
+
+
+You have identified the central distinction this chapter must make:
+
+**What the Constitution presently permits is not necessarily what a properly restrained federal system should permit.**
+
+The Enclave Clause does not currently operate as an exclusive list of all land the United States may own. Under existing doctrine, the broader Property Clause permits Congress to retain and regulate federally owned land inside states. Your manifesto can acknowledge that law honestly while proposing a constitutional correction that makes statehood carry meaningful territorial sovereignty. ([Congress.gov][1])
+
+# PART 3.1 — Federal Land Policy, State Sovereignty, and the Necessary Commons
+
+## Restoring Territorial Government Without Selling the Commons
+
+## I. The Question
+
+The United States is a union of states, not a collection of administrative districts governed from Washington.
+
+Yet in several western states, the federal government owns or manages enormous portions of the land within the state’s recognized borders. In Utah alone, the Bureau of Land Management manages approximately 22.8 million acres—about 42 percent of the state—before counting national parks, national forests, military installations, tribal trust lands, and other federal holdings. Altogether, federal agencies control roughly two-thirds of Utah’s land. ([Bureau of Land Management][2])
+
+This creates an unavoidable question:
+
+> What does state sovereignty mean when a state lacks authority over much of the territory within its own borders?
+
+The modern federal-land system is lawful under prevailing constitutional interpretation. But legality under current doctrine does not settle whether the system is consistent with limited government, equal statehood, local accountability, or the proper distribution of sovereign power.
+
+This chapter therefore distinguishes between:
+
+1. what the Constitution currently permits;
+2. what the federal system originally expected;
+3. what has developed through legislation and judicial interpretation; and
+4. what constitutional reforms should now be considered.
+
+---
+
+## II. The Constitutional Clauses Must Be Kept Separate
+
+Two constitutional provisions are frequently confused in debates over federal land.
+
+### A. The Property Clause
+
+Article IV, Section 3, Clause 2 provides:
+
+> “The Congress shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States.”
+
+Under existing Supreme Court doctrine, the words “or other Property” give Congress broad authority over property lawfully belonging to the United States. The Court has treated that authority as permitting both federal retention and extensive regulation of federally owned lands inside states. Disposal generally requires congressional authorization. ([Congress.gov][1])
+
+The clause therefore does not presently require Congress to dispose of federal land when a territory becomes a state.
+
+That is the law as it presently stands.
+
+### B. The Enclave Clause
+
+Article I, Section 8, Clause 17 concerns the District of Columbia and places purchased within states, with state legislative consent, for forts, magazines, arsenals, dockyards, and other needful buildings.
+
+Its principal subject is not merely ownership. It concerns the acquisition of land for enumerated federal purposes and the exercise of exclusive federal legislative jurisdiction over those places. ([Congress.gov][3])
+
+The Enclave Clause therefore does not currently function as an exhaustive list of every parcel the United States may own.
+
+Nevertheless, it provides an important model for constitutional reform:
+
+> Federal landholding inside a state should be tied to an enumerated federal function and ordinarily should require the state’s consent.
+
+That is not the controlling constitutional rule today. It is the limiting principle this proposal would establish.
+
+---
+
+## III. Statehood and the Equal-Footing Problem
+
+New states enter the Union on an equal constitutional footing with the original states. However, the equal-footing doctrine has not been interpreted to require the transfer of every federally owned upland parcel within a new state.
+
+One important exception concerns navigable waters. Title to the beds beneath navigable waters generally passes to a state when it enters the Union. This reflects the principle that states possess sovereign authority over navigable waters within their borders, subject to legitimate federal powers concerning navigation and interstate commerce. ([Congress.gov][4])
+
+Thus, current law distinguishes between:
+
+* sovereign interests that necessarily accompany statehood, such as title beneath navigable waters; and
+* ordinary federal uplands that Congress may retain under the Property Clause.
+
+The result is legally recognized but structurally uncomfortable: states may be equal in constitutional status while being dramatically unequal in the percentage of land they actually govern.
+
+The western states entered the Union after the federal government had already acquired and retained enormous territories. Their admission did not erase federal title. That explains the modern legal arrangement, but it does not answer whether that arrangement remains wise or compatible with a limited federal republic.
+
+---
+
+## IV. The Historical Change: From Disposal to Permanent Retention
+
+For much of American history, federal lands were treated principally as lands to be surveyed, granted, sold, settled, or otherwise transferred.
+
+Later, national policy shifted toward permanent retention and centralized management. That policy was eventually formalized through legislation such as the Federal Land Policy and Management Act of 1976, under which retention became the general policy for many remaining public lands unless disposal was specifically authorized. Utah’s recent constitutional challenge directly questioned the indefinite retention of approximately 18.5 million acres of what it called “unappropriated” federal land. ([Reuters][5])
+
+On January 13, 2025, the Supreme Court declined to allow Utah to file that case directly under the Court’s original jurisdiction. The Court gave no explanation and therefore did not issue a merits ruling deciding whether Utah’s constitutional theory was right or wrong. ([Utah Governor's Office][6])
+
+The important lesson is that the modern arrangement did not result from a constitutional amendment granting the federal government a new land power. It resulted from:
+
+* federal retention of property already held;
+* changes in congressional land policy;
+* increasingly broad federal management statutes; and
+* judicial interpretations sustaining broad Property Clause authority.
+
+This produced a permanent federal estate and the bureaucracies required to manage it.
+
+---
+
+## V. Why Permanent Federal Retention Is a Libertarian Concern
+
+The objection is not merely that the wrong government name appears on the deed.
+
+Concentrated federal ownership creates concentrated federal power.
+
+Permanent federal landholdings support permanent institutions such as:
+
+* the Bureau of Land Management;
+* the National Park Service;
+* the United States Forest Service;
+* the Fish and Wildlife Service; and
+* numerous regulatory, permitting, enforcement, planning, and administrative offices.
+
+The BLM alone manages approximately 245 million acres nationwide. ([Bureau of Land Management][7])
+
+Each institution requires:
+
+* appropriations;
+* employees;
+* enforcement authority;
+* administrative rules;
+* land-use plans;
+* permitting systems;
+* litigation offices; and
+* continuing political control from Washington.
+
+This arrangement distances decisions from the people most directly affected by them. It also allows federal land ownership to become the foundation for regulatory authority extending into grazing, energy, access, roads, water, recreation, fire management, conservation, and local economic activity.
+
+The libertarian objection is therefore structural:
+
+> A permanent federal estate creates a permanent justification for a larger federal administrative state.
+
+---
+
+## VI. Statehood Should Carry Presumptive Territorial Sovereignty
+
+A state should not be understood as sovereign merely because it elects a governor and sends representatives to Washington.
+
+Statehood should include presumptive control over the nonfederal territory within the state’s boundaries.
+
+The proposed principle is:
+
+> Upon admission of a territory as a state, title to federal lands within the new state should transfer to that state, except for land demonstrably necessary to perform an enumerated federal function.
+
+This would not mean that every acre immediately becomes private property.
+
+It would mean that the state—and ultimately the people of that state—would decide whether the land should be:
+
+* preserved as shared recreational land;
+* maintained as a state park or forest;
+* managed by a public trust;
+* placed under cooperative stewardship;
+* leased for grazing or resource production;
+* transferred to counties or municipalities;
+* sold under carefully defined conditions; or
+* retained as an undeveloped commons.
+
+The transfer would move authority closer to the people without requiring wholesale privatization.
+
+---
+
+## VII. The Enclave Principle as a Limitation
+
+A constitutional amendment should convert the logic of the Enclave Clause into a restriction on permanent federal ownership inside states.
+
+The federal government should be permitted to retain or acquire land within a state for clearly defined federal purposes, including:
+
+* military installations;
+* border and customs facilities;
+* ports and naval facilities;
+* federal courthouses;
+* post offices;
+* necessary federal administrative buildings;
+* facilities directly supporting interstate transportation or navigation;
+* other installations specifically necessary to execute an enumerated constitutional power.
+
+Federal acquisition within a state should ordinarily require:
+
+1. a specific statement of constitutional purpose;
+2. the consent of the state legislature;
+3. just compensation when privately owned land is acquired;
+4. defined boundaries;
+5. periodic review of continued necessity; and
+6. reversion to the state when the federal purpose ends.
+
+This would prevent federal agencies from acquiring or retaining land merely because federal ownership is administratively convenient.
+
+Federal ownership would become the exception rather than the presumption.
+
+---
+
+## VIII. National Parks, Forests, and Monuments
+
+This proposal does not require the destruction or privatization of the Grand Canyon, Yellowstone, Zion, Yosemite, or other treasured lands.
+
+It changes the sovereign owner and management structure.
+
+Under this model:
+
+* the state would hold title;
+* the land could retain a nationally recognized designation;
+* the federal government could provide technical assistance, mapping, historical expertise, coordination, or emergency support;
+* interstate parks could be governed by state compacts;
+* management could be assigned to a state authority, chartered trust, or nonprofit cooperative;
+* access and conservation requirements could be embedded permanently in the governing charter.
+
+A “national park” would describe its national importance, not necessarily federal ownership.
+
+For a park crossing state boundaries, the affected states could create an interstate compact establishing:
+
+* common access standards;
+* unified maps and passes;
+* revenue sharing;
+* wildlife coordination;
+* fire and emergency protocols;
+* maintenance responsibilities;
+* dispute-resolution procedures.
+
+Congress may approve interstate compacts where constitutionally required, but approval should not transform the land into federal property.
+
+Yellowstone, for example, could remain one recognizable park while its respective portions were held by Wyoming, Montana, and Idaho and administered through a common compact.
+
+---
+
+## IX. Preventing the Privatization of the Commons
+
+Transferring federal land to states must not become a disguised transfer to political donors, corporations, speculators, or wealthy private interests.
+
+That danger is real enough to require constitutional and statutory safeguards.
+
+Land transferred to a state should initially enter a protected state public-land trust. It should not be immediately available for unrestricted sale.
+
+The trust should classify the land according to its proper use:
+
+### 1. Protected natural and historic lands
+
+These would include:
+
+* unique geological formations;
+* important wildlife habitat;
+* historic and archaeological sites;
+* watersheds;
+* established parks;
+* irreplaceable scenic areas.
+
+Such lands would remain in perpetual public trust unless state voters approved a change under a demanding supermajority standard.
+
+### 2. Shared recreational lands
+
+These would include land used for:
+
+* camping;
+* hiking;
+* hunting;
+* fishing;
+* off-highway vehicles;
+* horseback riding;
+* target shooting where safely permitted;
+* public access to rivers, lakes, and trails.
+
+These lands could be supported through modest user fees, permits, concessions, resource revenue, charitable support, or state appropriations.
+
+### 3. Productive multiple-use lands
+
+These could support:
+
+* grazing;
+* timber;
+* mining;
+* energy development;
+* recreation;
+* conservation leases;
+* infrastructure corridors.
+
+Uses would be governed through transparent contracts and rights-based rules, not shifting federal administrative policy.
+
+### 4. Land suitable for disposal
+
+Some parcels may be appropriate for:
+
+* housing;
+* agriculture;
+* business development;
+* local infrastructure;
+* municipal expansion;
+* private conservation.
+
+Disposal should occur through transparent competitive processes, with anti-corruption restrictions, public notice, and protections against bulk acquisition intended merely to exclude the public or monopolize future development.
+
+The goal is neither permanent government control nor indiscriminate privatization.
+
+The goal is responsible disposition under the authority of the people nearest to the land.
+
+---
+
+## X. No Land by Simple Occupation
+
+A libertarian property system cannot allow individuals merely to announce ownership of unused state land.
+
+Property rights require a lawful method of original acquisition.
+
+Without such rules, “first claim” becomes a contest of:
+
+* force;
+* wealth;
+* political influence;
+* physical occupation; or
+* the ability to exclude others.
+
+That would replace public bureaucracy with private land conquest.
+
+State law should therefore define how previously unallocated land may become private property. A valid process could require:
+
+* clear surveying;
+* public notice;
+* payment or an earned-use arrangement;
+* a defined development or stewardship obligation;
+* protection of existing easements and access corridors;
+* respect for water, mineral, grazing, and tribal rights;
+* limits on speculative accumulation;
+* judicially reviewable title.
+
+The Lockean idea of acquiring property through labor cannot be treated as permission to seize whatever land a person reaches first. In a mature society, lawful title must be clear, recorded, transferable, and enforceable.
+
+---
+
+## XI. Waterways, Lakes, and Interstate Natural Systems
+
+Water requires separate treatment because it does not observe political boundaries.
+
+A state may possess title to the beds of navigable waters within its territory, but navigable rivers and interstate waters also implicate federal powers over interstate and foreign commerce. ([Congress.gov][4])
+
+No state should be permitted to:
+
+* block lawful interstate navigation;
+* divert an entire interstate watercourse without regard to downstream rights;
+* contaminate water that crosses into another state;
+* construct barriers that unlawfully impair interstate commerce;
+* deny another state its legally established share of an interstate watershed.
+
+This does not require federal ownership of every river, lake, bank, reservoir, or watershed.
+
+The federal role should be one of:
+
+* protecting navigation;
+* providing a neutral forum for interstate disputes;
+* approving and enforcing interstate compacts;
+* adjudicating constitutional controversies;
+* coordinating emergency responses where several states are affected.
+
+Ownership and ordinary management should remain with states, local governments, trusts, associations, or private owners as appropriate.
+
+The federal government should serve as referee where state interests collide—not as universal landlord.
+
+---
+
+## XII. Tribal Lands and Existing Private Rights
+
+Any land-transfer program must expressly protect:
+
+* tribal sovereignty;
+* treaty rights;
+* reservation boundaries;
+* lands held in trust for tribes or individual tribal members;
+* valid mining claims;
+* grazing rights;
+* water rights;
+* leases;
+* easements;
+* private inholdings;
+* existing contractual obligations.
+
+Utah’s 2024 case itself distinguished the challenged “unappropriated” lands from national parks, national monuments, military installations, tribal lands, and other specially designated property. ([Supreme Court][8])
+
+A state-sovereignty reform must not use federal devolution as an excuse to extinguish unrelated property or treaty rights.
+
+Government cannot restore one form of sovereignty by violating another.
+
+---
+
+## XIII. Funding State-Managed Public Lands
+
+The strongest objection to transferring federal lands is that states may lack the revenue to manage fires, roads, search and rescue, parks, habitat, and remote infrastructure.
+
+That problem must be addressed rather than dismissed.
+
+Possible revenue sources include:
+
+* park admission fees;
+* annual resident and nonresident passes;
+* camping and reservation charges;
+* hunting and fishing licenses;
+* off-highway vehicle registrations;
+* concession agreements;
+* grazing leases;
+* responsible mineral and energy royalties;
+* timber receipts;
+* recreation-business partnerships;
+* conservation memberships;
+* voluntary donations;
+* state trust investments;
+* limited state appropriations where voters choose them.
+
+Fees must remain low enough that ordinary families are not excluded from shared lands. A public-land system that only wealthy people can afford is little better than private enclosure.
+
+Possible protections include:
+
+* free or deeply discounted resident access;
+* low-cost family passes;
+* reduced fees for seniors, veterans, and low-income households;
+* volunteer-service credits;
+* free access to undeveloped lands while charging for developed facilities;
+* revenue sharing from commercial concessions.
+
+“User-funded” should mean that users bear a meaningful portion of the cost. It should not mean that poorer citizens lose access to their own state.
+
+---
+
+## XIV. A Realistic Transfer Process
+
+Immediate transfer of hundreds of millions of acres without planning could produce disorder, litigation, corruption, and fire-management failures.
+
+A realist transition should proceed in stages.
+
+### Stage One: Inventory and classification
+
+Create a complete public inventory of:
+
+* federal title;
+* federal mineral estates;
+* rights-of-way;
+* water rights;
+* leases;
+* permits;
+* tribal interests;
+* private inholdings;
+* environmental liabilities;
+* maintenance obligations;
+* existing public access.
+
+### Stage Two: Transfer clearly state-oriented lands
+
+Begin with unappropriated BLM lands and parcels that do not serve a specific national function.
+
+### Stage Three: Establish state trusts and interstate compacts
+
+Before title changes, states must create transparent institutions capable of managing the land and preserving lawful access.
+
+### Stage Four: Transfer national parks and forests by agreement
+
+These lands require individual management plans, protection covenants, funding structures, and interstate arrangements where applicable.
+
+### Stage Five: Wind down federal land agencies
+
+As their portfolios shrink:
+
+* employees may transfer to state trusts or agencies;
+* records and equipment may be transferred;
+* federal offices should close;
+* duplicative appropriations should end;
+* residual federal functions should be consolidated.
+
+The objective is not merely to change the logo on the ranger’s vehicle. It is to reduce the scale and reach of the federal government.
+
+---
+
+## XV. Proposed Constitutional Amendment
+
+### Amendment — State Territorial Sovereignty and Federal Property
+
+**Section 1.**
+Upon the admission of a State into this Union, title to lands held by the United States within the boundaries of that State shall vest in the State, except as otherwise provided by this Article.
+
+**Section 2.**
+The United States may retain or acquire land within a State only when reasonably necessary to execute a power expressly delegated by this Constitution, including land used for military installations, border and customs facilities, ports, postal facilities, federal courts, and other needful buildings or installations.
+
+**Section 3.**
+Except where land was retained at the time of admission under Section 2, acquisition of land by the United States within a State shall require the consent of the legislature of that State. A State may require approval by its people as a condition of such consent.
+
+**Section 4.**
+Land retained or acquired by the United States shall revert to the State when it is no longer reasonably necessary for the constitutional purpose for which it was retained or acquired.
+
+**Section 5.**
+Nothing in this Article shall impair tribal sovereignty, treaty rights, private property, valid contracts, easements, water rights, or other legally vested interests.
+
+**Section 6.**
+Congress may regulate interstate navigation and resolve disputes among States concerning interstate waters, transportation corridors, and other matters within its enumerated powers, but such authority shall not by itself convey title to land or water within a State.
+
+**Section 7.**
+Congress shall provide by law for the orderly transfer to the several States of federal lands inconsistent with this Article. Such transfer shall protect public access, valid existing rights, and lands of extraordinary natural, historic, or cultural importance during the transition.
+
+---
+
+## XVI. A Statutory Alternative Before Amendment
+
+A constitutional amendment is the strongest protection, but reform need not wait for one.
+
+Congress could enact a Federal Land Devolution Act providing that:
+
+1. unappropriated federal lands are presumptively transferable to states;
+2. federal agencies must justify continued retention parcel by parcel;
+3. retention must be tied to an enumerated federal function;
+4. states must create public-land trusts before receiving title;
+5. major state disposals require public notice and voter approval;
+6. existing access rights and valid claims remain protected;
+7. national parks and forests transfer under negotiated management agreements;
+8. federal agencies and budgets shrink automatically as land transfers occur;
+9. transferred lands cannot be sold in bulk for a defined transition period;
+10. Congress must approve any continued federal retention after a specified deadline.
+
+Unlike an amendment, a statute could later be repealed or altered. But it would establish the working model and demonstrate whether state management could succeed.
+
+---
+
+## XVII. The Libertarian Position
+
+The choice is not between federal ownership and private exclusion.
+
+Nor is the choice between Washington bureaucracy and uncontrolled land seizure.
+
+A constitutional libertarian policy can recognize three legitimate categories:
+
+1. **private property**, governed by ownership and contract;
+2. **state or locally held shared lands**, governed in trust for access, recreation, conservation, and responsible use;
+3. **narrow federal enclaves**, limited to the execution of enumerated national powers.
+
+The federal government may coordinate interstate matters and resolve disputes between states without owning every place affected by those disputes.
+
+It may protect interstate navigation without owning every riverbank.
+
+It may recognize the national importance of Yellowstone without acting as Yellowstone’s permanent landlord.
+
+It may advise, mediate, and assist without creating an unlimited federal estate.
+
+---
+
+## XVIII. Manifesto Summary
+
+Statehood should carry territorial sovereignty.
+
+The modern Constitution, as presently interpreted, permits broad federal retention and regulation of land under the Property Clause. That legal reality should be acknowledged, but it should not be treated as the ideal arrangement.
+
+The Enclave Clause should provide the model for reform: federal land inside a state should be limited to property genuinely necessary for enumerated federal purposes and ordinarily acquired with state consent.
+
+Remaining federal lands should transfer through an orderly process to state public-land trusts, with protections for tribal rights, private claims, public access, conservation, interstate navigation, and the prevention of corrupt privatization.
+
+National parks, forests, monuments, and recreational lands need not disappear. They should be governed closer to the people, supported through transparent state decisions, user revenues, cooperative management, and interstate agreements.
+
+The federal government should resolve conflicts among sovereign states—not preserve those conflicts by remaining the largest landholder within them.
+
+This gives the land chapter a complete structure: **current constitutional law, the philosophical objection, the reform, the commons problem, waterways, safeguards, transition, and proposed amendment language.**
+
+When you are ready to continue, we can take up **Part 3.2 — National Defense and the Distributed Military** before addressing the elections question.
+
+[1]: https://constitution.congress.gov/browse/essay/artIV-S3-C2-2/ALDE_00013510/?utm_source=chatgpt.com "ArtIV.S3.C2.2 Federal and State Power Over Public Lands"
+[2]: https://www.blm.gov/about/what-we-manage/utah?utm_source=chatgpt.com "What We Manage: Utah"
+[3]: https://constitution.congress.gov/browse/essay/artI-S8-C17-2-1/ALDE_00001081/?utm_source=chatgpt.com "ArtI.S8.C17.2.1 Overview of Places Purchased Clause"
+[4]: https://constitution.congress.gov/browse/essay/artIV-S3-C1-5/ALDE_00013712/?utm_source=chatgpt.com "Equal Footing and Property Rights in Submerged Lands"
+[5]: https://www.reuters.com/legal/utah-lawsuit-challenges-federal-control-third-its-land-2024-08-20/?utm_source=chatgpt.com "Utah lawsuit challenges federal control of a third of its land"
+[6]: https://governor.utah.gov/press/despite-supreme-court-decision-utah-remains-committed-to-keeping-public-lands-accessible-for-all/?utm_source=chatgpt.com "Despite Supreme Court decision, Utah remains committed ..."
+[7]: https://www.blm.gov/d8-home?utm_source=chatgpt.com "Bureau of Land Management: Home"
+[8]: https://www.supremecourt.gov/DocketPDF/22/22O160/335277/20241216152048160_2024-12-16%20Utah%20Opp%20to%20Ute%20Mot%20to%20Intervene.pdf?utm_source=chatgpt.com "Supreme Court of the United States"

@@ -1,0 +1,991 @@
+Let's take up Part 3.2 — National Defense and the Distributed Military
+
+
+
+
+
+
+
+
+
+The constitutional structure already points toward a distributed system: Congress may maintain a Navy, raise armies subject to two-year appropriations, and organize the state militias; the President commands state forces only when they are called into federal service. The challenge is adapting that structure to nuclear weapons, aircraft, cyberwarfare, submarines, missiles, and the speed of modern attack. ([Congress.gov][1])
+
+# PART 3.2 — National Defense and the Distributed Military
+
+## Defending the Republic Without Building an Empire
+
+## I. The Essential Question
+
+A free country must be capable of defending itself.
+
+It must be able to protect:
+
+* its territory;
+* its people;
+* its states;
+* its borders;
+* its coastlines;
+* its airspace;
+* its waterways;
+* its communications;
+* and the constitutional government itself.
+
+A nation that cannot defend its liberty will eventually lose it.
+
+At the same time, a permanent military establishment can become one of the greatest threats to liberty. A large standing force requires permanent taxation, permanent bureaucracy, permanent procurement, permanent overseas commitments, and an executive branch continually tempted to use military power without a true defensive necessity.
+
+The libertarian question is therefore not whether the United States should have a military.
+
+It is:
+
+> How can the United States maintain enough professional military capability to deter or survive an immediate attack without maintaining a military establishment large enough to encourage empire, intervention, and permanent war?
+
+The answer cannot be the complete abolition of a standing military. Modern defense requires continuous professional competence in areas that cannot be recreated after a crisis begins.
+
+Nor should the answer be the present model of an enormous permanent force designed to operate almost anywhere in the world.
+
+The proper solution is a layered system:
+
+1. a small but highly capable permanent federal defense force;
+2. substantial military forces organized through the states;
+3. a deep national reserve of trained citizens and former service members;
+4. a lawful mobilization process for declared wars and genuine national emergencies.
+
+This may be called the **Distributed Defense Model**.
+
+---
+
+## II. The Constitution Does Not Require Either Pacifism or Militarism
+
+The Constitution divides military authority deliberately.
+
+Congress possesses the power to:
+
+* declare war;
+* raise and support armies;
+* provide and maintain a Navy;
+* make rules governing the armed forces;
+* call forth the militia to execute federal law, suppress insurrection, and repel invasion;
+* organize, arm, and discipline the militia;
+* and provide for the common defense.
+
+The Constitution distinguishes between armies, which Congress may “raise and support,” and a Navy, which Congress may “provide and maintain.” It further restricts Army appropriations to terms no longer than two years. This does not prohibit a standing army, but it requires Congress to reconsider and fund it repeatedly rather than establish it beyond ordinary political control. ([Congress.gov][1])
+
+The President serves as Commander in Chief of the Army and Navy and of the state militias only when those militias are called into the actual service of the United States. The President commands forces that lawfully exist and have been lawfully activated; the Commander in Chief Clause does not give the President an independent power to create armies, appropriate money, or declare war. ([Congress.gov][2])
+
+The states retain an important role. The Constitution reserves to them the appointment of militia officers and the authority to train the militia according to the discipline prescribed by Congress.
+
+The original structure therefore contemplated neither fifty completely independent armies nor a single national military monopoly detached from the states.
+
+It contemplated a shared system:
+
+* Congress establishes common standards and national military capability;
+* the states maintain organized forces;
+* the President commands federal forces and state forces properly called into federal service;
+* and the people remain the ultimate reservoir of national defense.
+
+That basic design remains sound.
+
+It requires modernization, not abandonment.
+
+---
+
+## III. Why a Pure Militia System Is No Longer Sufficient
+
+In the eighteenth century, a militia could assemble with personally owned arms and perform many ordinary military functions after a limited period of organization.
+
+Modern war is different.
+
+Certain capabilities require personnel who train and operate continuously:
+
+* nuclear command and control;
+* ballistic-missile warning;
+* nuclear submarines;
+* strategic deterrence;
+* military satellites;
+* advanced cybersecurity;
+* intelligence analysis;
+* fighter interception;
+* air-defense systems;
+* naval reactor operation;
+* submarine warfare;
+* special operations;
+* military aviation maintenance;
+* explosive-ordnance disposal;
+* biological and chemical defense;
+* secure communications.
+
+A fighter pilot cannot be trained after enemy aircraft are already approaching.
+
+A nuclear submarine crew cannot be assembled from an untrained population during a crisis.
+
+A missile-warning network cannot be turned on only after a missile has been launched.
+
+A cyber-defense force cannot begin learning the protected systems after those systems have been penetrated.
+
+Some standing force is therefore necessary.
+
+The proper libertarian objection is not to permanent capability itself. It is to a permanent military establishment whose size, mission, and geographic reach greatly exceed the immediate defense of the United States.
+
+---
+
+## IV. The Three-Layer Defense Model
+
+### Layer One: The Federal Strategic Defense Force
+
+The federal government should maintain a limited professional force responsible for capabilities that must exist continuously and cannot reasonably be divided among the states.
+
+Its central purposes would be:
+
+* strategic deterrence;
+* defense of the national airspace;
+* defense of territorial waters and coastlines;
+* missile warning and missile defense;
+* nuclear security;
+* cyber defense of national systems;
+* military intelligence concerning direct threats;
+* protection of essential national command systems;
+* rapid response to attacks on the United States;
+* maintenance of critical common equipment and doctrine;
+* training and coordination of state defense forces.
+
+This force would include a professional Navy because naval forces, ships, submarines, shipyards, and maritime command systems inherently require continuity. The Constitution itself uses the continuing language “provide and maintain a Navy,” while treating armies as forces to be raised and supported. ([Congress.gov][1])
+
+The federal force would also maintain:
+
+* a strategic air component;
+* nuclear forces;
+* space and missile-warning capability;
+* national cyber-defense units;
+* specialized logistics and transportation commands;
+* a small rapid-response ground component;
+* common military academies and advanced training centers.
+
+It would not be sized primarily to occupy foreign countries, conduct indefinite counterinsurgencies, police civil wars, or maintain a permanent ground presence throughout the world.
+
+Its mission would be defense, deterrence, readiness, and the preservation of time.
+
+Its immediate purpose during a large attack would be to prevent defeat while the broader distributed force mobilizes.
+
+---
+
+### Layer Two: State Guard Forces
+
+Each state should maintain an organized military force similar in concept to the National Guard but more clearly rooted in state sovereignty.
+
+These forces would remain under the command of the governor except when lawfully called into federal service for a constitutionally authorized purpose.
+
+The existing National Guard already demonstrates the feasibility of dual state and federal responsibilities. During ordinary state service, Guard forces answer to their governors. They may also be activated for federal missions. ([National Guard][3])
+
+Under the Distributed Defense Model, state forces would become a much larger share of national military capacity.
+
+They would include more than conventional Army units. States and regional compacts could maintain units specializing in:
+
+* infantry;
+* armor;
+* artillery;
+* engineering;
+* air defense;
+* fighter and transport aviation;
+* drone operations;
+* coastal patrol;
+* logistics;
+* communications;
+* medical support;
+* cyber defense;
+* military police;
+* search and rescue;
+* disaster response;
+* infrastructure restoration.
+
+Not every state would need every capability.
+
+Geography and population should guide specialization.
+
+Coastal states might maintain:
+
+* coastal patrol forces;
+* naval reserve facilities;
+* port-defense units;
+* anti-ship systems;
+* maritime aviation.
+
+Interior states might emphasize:
+
+* air defense;
+* transport aviation;
+* engineering;
+* armor;
+* logistics;
+* missile units;
+* cyber operations.
+
+States with major aviation facilities could host regional fighter or airlift wings. Several states could jointly support expensive capabilities through interstate defense compacts.
+
+Utah, Nevada, Colorado, Arizona, and New Mexico, for example, might jointly support specialized western air-defense, training, cyber, and logistics commands while retaining their separate state chains of authority.
+
+The objective would not be to create fifty miniature copies of the Department of Defense.
+
+It would be to distribute trained personnel, equipment, logistics, and command capability so that no single attack or centralized failure could disable the country’s defense.
+
+---
+
+### Layer Three: The National Trained Reserve
+
+Behind the professional and state forces should stand a deep reserve of citizens who have received useful military or civil-defense training.
+
+This reserve might include:
+
+* former active-duty personnel;
+* former Guard members;
+* volunteer reservists;
+* trained civilian pilots;
+* medical professionals;
+* engineers;
+* mechanics;
+* communications specialists;
+* cybersecurity professionals;
+* transportation workers;
+* emergency-management personnel;
+* citizens who complete approved state defense courses.
+
+Participation should normally be voluntary.
+
+Incentives could include:
+
+* educational benefits;
+* professional certifications;
+* tax credits;
+* state tuition assistance;
+* access to technical training;
+* preference for certain emergency-response positions;
+* retirement credit;
+* equipment allowances;
+* paid annual training;
+* liability protections while serving.
+
+A person should not need to become a full-time soldier to contribute to national defense.
+
+A diesel mechanic, trauma nurse, network engineer, pilot, heavy-equipment operator, radio technician, or bridge engineer may be more valuable in a national emergency than another minimally trained rifleman.
+
+The reserve should therefore be organized by usable capability rather than merely by head count.
+
+---
+
+## V. How Much Standing Force Is Enough?
+
+The standing federal force must be large enough to perform five essential tasks simultaneously:
+
+1. maintain strategic deterrence;
+2. detect an attack;
+3. defend the most important national targets;
+4. respond immediately to localized attacks or invasions;
+5. protect mobilization long enough for state and reserve forces to assemble.
+
+It should not be designed to fight several elective overseas wars simultaneously.
+
+That distinction is critical.
+
+A defensive military asks:
+
+> What is necessary to deny an enemy a successful attack on the United States?
+
+An imperial military asks:
+
+> How many foreign regions can we dominate at the same time?
+
+Those are fundamentally different force-planning questions.
+
+The federal strategic force should be measured against plausible threats to the American homeland and treaty obligations that have been specifically approved through constitutional processes.
+
+It should not be measured by the ability to occupy arbitrary foreign capitals.
+
+---
+
+## VI. Mobilization Cannot Take Eight Months Before Defense Begins
+
+The country cannot assume it will have eight peaceful months to build an army after an attack.
+
+Modern missiles arrive in minutes.
+
+Aircraft arrive in hours.
+
+Cyberattacks may already be underway before they are detected.
+
+Naval attacks, sabotage, drones, or attacks on infrastructure may occur without a traditional declaration of war.
+
+The distributed system must therefore mobilize in stages.
+
+### Immediate response: minutes to hours
+
+The permanent federal force would:
+
+* detect and identify the attack;
+* activate missile and air defenses;
+* protect strategic command systems;
+* respond with available naval and air forces;
+* secure nuclear forces;
+* defend essential communications;
+* notify governors and state commands.
+
+### State response: hours to days
+
+Governors would activate state units to:
+
+* protect bases, ports, utilities, and transportation systems;
+* defend coastlines or border approaches;
+* secure mobilization centers;
+* supplement air defense;
+* provide medical and engineering support;
+* maintain civil order under ordinary constitutional limits;
+* assist neighboring states through preapproved compacts.
+
+### Regional response: days to weeks
+
+Regional forces would assemble:
+
+* heavier ground units;
+* additional aviation;
+* logistics formations;
+* repair and construction units;
+* reserve naval crews;
+* regional cyber and communications teams.
+
+### National expansion: weeks to months
+
+Congress could authorize:
+
+* extended federal activation;
+* increased enlistment;
+* emergency procurement;
+* recall of trained reservists;
+* temporary expansion of military facilities;
+* and, in an existential emergency, a carefully limited draft.
+
+The permanent force would therefore not be expected to win every large war by itself.
+
+It would be expected to prevent an immediate loss, impose serious costs on the attacker, and preserve the country’s ability to mobilize.
+
+---
+
+## VII. Should State Participation Be Required?
+
+A distributed national defense cannot function if some states refuse to maintain any useful capability while expecting other states to bear the entire cost.
+
+At the same time, the federal government should not micromanage each state’s military organization.
+
+The proper model is a constitutional obligation with state flexibility.
+
+Every state should be required to contribute an equitable share to the common defense, but the form of that contribution could vary.
+
+A state might provide:
+
+* personnel;
+* aviation;
+* ground units;
+* naval or coastal units;
+* logistics;
+* cyber capability;
+* medical facilities;
+* training ranges;
+* manufacturing capacity;
+* funding for regional units.
+
+Congress could establish minimum interoperability standards under its constitutional authority to organize, arm, and discipline the militia. States would determine how to meet those standards and would appoint their officers, as the Constitution provides.
+
+The burden should be measured by factors such as:
+
+* population;
+* economic capacity;
+* geography;
+* strategic location;
+* existing facilities;
+* risk exposure.
+
+Wyoming should not be required to maintain the same maritime capability as Virginia.
+
+Rhode Island should not be expected to field the same number of ground units as Texas.
+
+Every state contributes, but not identically.
+
+---
+
+## VIII. Federal Standards Without Federal Ownership of Everything
+
+For state forces to fight together, they require common standards.
+
+Congress may establish standards for:
+
+* communications;
+* ammunition;
+* command terminology;
+* medical treatment;
+* aircraft interoperability;
+* logistics;
+* cyber protection;
+* identification systems;
+* training proficiency;
+* rules of engagement when in federal service.
+
+The federal government could provide grants, equipment, and specialized training conditioned on meeting those standards.
+
+However, federal support should not automatically mean permanent federal ownership or day-to-day federal control.
+
+A state might operate federally standardized aircraft or vehicles while retaining ordinary command under its governor.
+
+Common standards preserve military usefulness.
+
+State control preserves federalism.
+
+---
+
+## IX. Command Authority
+
+A distributed military requires an unmistakable chain of command.
+
+### In ordinary state service
+
+State forces remain under:
+
+* the governor;
+* the state adjutant general;
+* state military law;
+* the state legislature’s funding and oversight.
+
+They may respond to:
+
+* disasters;
+* fires;
+* floods;
+* search-and-rescue operations;
+* infrastructure failures;
+* invasion or attack within the state;
+* lawful assistance requests from another state.
+
+### In federal service
+
+When lawfully called into federal service, designated units fall under the President as Commander in Chief for the duration and purpose of that activation. The Constitution expressly recognizes presidential command over state militia only when it has been called into the actual service of the United States. ([Congress.gov][4])
+
+Federalization should require:
+
+* a constitutional purpose;
+* clear statutory authority;
+* a written activation order;
+* identification of the units activated;
+* a defined mission;
+* a defined geographic scope;
+* a time limit;
+* continuing congressional funding;
+* judicial review where constitutional rights are implicated.
+
+The President must be able to respond immediately to an actual attack.
+
+That emergency authority must not become a power to deploy state forces indefinitely for undeclared foreign wars.
+
+---
+
+## X. The Role of the President and Congress
+
+The President must be capable of directing immediate military responses when the United States is attacked.
+
+But the President should not possess unilateral authority to begin prolonged wars.
+
+The proper division is:
+
+### The President may:
+
+* repel an actual or demonstrably imminent attack;
+* protect American forces and territory;
+* direct the lawful armed forces;
+* deploy immediate defensive resources;
+* request activation and mobilization.
+
+### Congress must:
+
+* declare war or specifically authorize sustained hostilities;
+* determine the size and structure of the forces;
+* appropriate money;
+* establish military law;
+* authorize prolonged federalization of state forces;
+* oversee the conduct and objectives of war;
+* terminate authorization when its purpose has ended.
+
+Congress’s constitutional authority includes declaring war, raising armies, maintaining a Navy, and making rules governing the armed forces. ([Congress.gov][5])
+
+A realistic constitutional system should allow immediate defense without permitting undeclared wars to continue through executive momentum and automatic appropriations.
+
+---
+
+## XI. War Authorization and Automatic Limits
+
+Every authorization for military force should state:
+
+* the enemy or threat;
+* the defensive objective;
+* the geographic area;
+* the forces authorized;
+* the permitted duration;
+* the conditions for renewal;
+* the conditions for termination.
+
+Authorizations should expire automatically unless Congress renews them through a recorded vote.
+
+Funding should not be treated as a substitute for authorization.
+
+Congress should not be permitted to avoid political responsibility by funding a conflict while refusing either to authorize or terminate it.
+
+No authorization should be transferable from one enemy, country, or generation to another merely by executive interpretation.
+
+A war begun for one defined purpose should not become permanent authority for unrelated military operations.
+
+---
+
+## XII. The Draft
+
+A libertarian society should treat conscription as an extraordinary use of government power.
+
+A draft compels a person to surrender:
+
+* time;
+* labor;
+* freedom of movement;
+* personal safety;
+* and potentially life itself.
+
+It cannot be justified merely because volunteer recruitment is inconvenient or because policymakers wish to conduct a discretionary foreign intervention.
+
+The presumption should be voluntary service.
+
+A draft should be constitutionally permissible only when:
+
+1. the United States has suffered an armed attack or faces a clearly imminent existential threat;
+2. Congress has formally declared war;
+3. Congress makes a specific finding that volunteer and reserve forces are insufficient;
+4. the draft is limited to the duration of the declared emergency;
+5. exemptions and deferments are governed by uniform law;
+6. conscientious objection is recognized, with alternative service where appropriate;
+7. conscription cannot be used merely to maintain foreign occupations or undeclared hostilities.
+
+The draft should be a last national resort, not a routine personnel policy.
+
+The state-based reserve system is intended partly to make conscription less likely by maintaining a broad pool of trained volunteers before a crisis begins.
+
+---
+
+## XIII. Nuclear Weapons and Strategic Deterrence
+
+Nuclear weapons present the strongest argument for a permanent federal force.
+
+They cannot be distributed among governors.
+
+Nuclear command must remain national, disciplined, secure, and continuously staffed.
+
+The federal government should retain exclusive custody and operational control over:
+
+* nuclear warheads;
+* strategic missiles;
+* ballistic-missile submarines;
+* nuclear bomber forces;
+* national command-and-control systems;
+* early-warning systems.
+
+However, nuclear power must be subject to strict constitutional and procedural restraint.
+
+No single person should be able to initiate nuclear war as an act of policy without lawful authorization.
+
+The President must retain the power to respond to a confirmed nuclear attack when delay would destroy the country’s retaliatory capability.
+
+First use outside an immediate defensive emergency should require congressional authorization.
+
+The system must distinguish between:
+
+* rapid response to an actual attack;
+* and discretionary initiation of nuclear hostilities.
+
+Strategic deterrence is necessary.
+
+Unchecked personal discretion is not.
+
+---
+
+## XIV. The Navy, Coastlines, and Maritime Defense
+
+A Navy cannot be improvised after war begins.
+
+Ships, submarines, naval aviation, trained crews, ports, maintenance facilities, and maritime logistics require long-term continuity.
+
+The federal Navy should therefore remain a permanent national service.
+
+Its principal missions should be:
+
+* defending American coasts and territorial waters;
+* securing lawful maritime commerce;
+* protecting strategic sea lanes necessary to the United States;
+* maintaining submarine deterrence;
+* protecting American ports;
+* interdicting direct maritime threats;
+* assisting states during major coastal disasters.
+
+A distributed maritime reserve could supplement the Navy through:
+
+* state coastal forces;
+* reserve crews;
+* merchant-marine agreements;
+* state port-defense units;
+* Coast Guard auxiliaries;
+* privately owned vessels enrolled under clear emergency contracts.
+
+The Coast Guard is especially compatible with a limited-government model because maritime safety, customs enforcement, rescue, navigation, and coastal defense are genuine national functions.
+
+Its law-enforcement mission must nevertheless remain constrained by the Fourth Amendment, due process, and clear territorial jurisdiction.
+
+---
+
+## XV. Air and Missile Defense
+
+Air defense cannot be concentrated in a few distant federal bases.
+
+States should participate directly in defending their airspace and infrastructure.
+
+The federal government should operate:
+
+* national radar and satellite warning;
+* strategic air command;
+* long-range interception;
+* ballistic-missile warning and defense;
+* common command networks.
+
+State and regional forces could operate:
+
+* fighter wings;
+* drones;
+* ground-based air defenses;
+* transport aircraft;
+* refueling units;
+* emergency airfields;
+* maintenance and recovery units.
+
+Aircraft and missile-defense systems are expensive, so regional compacts would be essential.
+
+A state does not need independent control over every system to have a meaningful defense role. It does need trained personnel, functioning bases, protected infrastructure, and a lawful place within the command structure.
+
+---
+
+## XVI. Cyber Defense
+
+Cyberwar blurs the distinction between military attack, espionage, sabotage, and crime.
+
+A limited government must resist using “cybersecurity” as an excuse for universal surveillance.
+
+The federal cyber-defense mission should focus on:
+
+* military systems;
+* federal command networks;
+* national warning systems;
+* attacks by foreign governments;
+* interstate coordination during major attacks;
+* standards for systems voluntarily connected to federal defense networks.
+
+States should maintain cyber units capable of protecting:
+
+* state emergency systems;
+* election infrastructure;
+* public utilities;
+* transportation systems;
+* state communications;
+* National Guard networks.
+
+Private companies should remain responsible for their own systems unless they have voluntarily entered defense contracts or their networks are directly integrated into critical national functions.
+
+Federal assistance should not create unrestricted federal authority to inspect every private network, monitor every communication, or require government access to private encryption.
+
+National defense must not become the pretext for abolishing digital privacy.
+
+---
+
+## XVII. Domestic Use of Military Forces
+
+A military designed to fight enemies must not become an ordinary national police force.
+
+Federal troops should not routinely:
+
+* patrol American communities;
+* enforce ordinary criminal law;
+* manage political demonstrations;
+* conduct generalized surveillance;
+* collect revenue;
+* replace local police;
+* administer civilian government.
+
+State Guard forces may assist during disasters, invasions, catastrophic disorder, or specific emergencies under state law.
+
+Even then, their role should be limited, temporary, and subordinate to constitutional rights.
+
+The distinction between military and police functions protects both institutions.
+
+Police investigate crimes and preserve evidence for courts.
+
+The military defeats or deters organized threats to the country.
+
+Combining the two creates an instrument capable of treating citizens as enemy populations.
+
+---
+
+## XVIII. Overseas Bases and Alliances
+
+A defensive republic may maintain limited overseas facilities when they directly support:
+
+* early warning;
+* naval resupply;
+* treaty defense;
+* evacuation;
+* strategic deterrence;
+* protection of essential commerce.
+
+But every overseas base should require periodic justification.
+
+The federal government should publish:
+
+* its constitutional and strategic purpose;
+* its cost;
+* the agreement authorizing its presence;
+* the forces assigned;
+* the conditions for closure.
+
+Bases should not continue indefinitely merely because they already exist.
+
+Alliances should also be specific.
+
+A treaty should not become a blank check obligating future generations to intervene in every conflict involving every partner.
+
+Mutual defense should mean defense against aggression, not automatic participation in another country’s elective wars.
+
+---
+
+## XIX. Military Procurement and the Permanent War Economy
+
+A large military bureaucracy creates politically protected industries that profit from continuing expansion.
+
+Defense contractors provide necessary equipment, but procurement must not become an indirect subsidy system.
+
+Reform should include:
+
+* competitive bidding;
+* public cost accounting;
+* bans on undisclosed conflicts of interest;
+* long cooling-off periods before senior officials may work for contractors they supervised;
+* criminal penalties for procurement fraud;
+* independent testing;
+* cancellation of persistently failed programs;
+* modular and repairable equipment;
+* state and regional maintenance capability;
+* open technical standards where national security permits;
+* regular audits.
+
+A weapons system should exist because it is necessary for defense, not because its production has been strategically scattered across enough congressional districts to prevent cancellation.
+
+---
+
+## XX. Funding the Distributed System
+
+National strategic capabilities should be funded federally.
+
+State forces should use a combination of:
+
+* state funding;
+* federal readiness grants;
+* shared equipment programs;
+* regional compact funding;
+* compensation for federal activation.
+
+Federal grants should be tied to objective readiness standards rather than political favoritism.
+
+A state receiving national defense equipment should accept defined obligations to:
+
+* maintain the equipment;
+* train qualified personnel;
+* participate in national exercises;
+* make designated units available when constitutionally activated.
+
+States should be free to exceed federal minimums using state funds, but they should not be able to shift all defense costs onto other states.
+
+National defense is a shared constitutional obligation.
+
+Its administration need not be wholly centralized.
+
+---
+
+## XXI. Safeguards Against Militarism
+
+A distributed system must contain barriers against both federal abuse and local military abuse.
+
+Necessary safeguards include:
+
+* congressional declarations or specific authorizations for sustained war;
+* automatic expiration of war authorizations;
+* two-year maximum Army appropriations;
+* regular public audits;
+* civilian control;
+* state control of nonfederalized state forces;
+* explicit limits on domestic military policing;
+* no secret body of military law;
+* no indefinite detention without charge;
+* no military tribunals for ordinary civilian crimes where civil courts are operating;
+* whistleblower protections;
+* transparent casualty and cost reporting;
+* reversion of emergency powers when the emergency ends;
+* judicial review of constitutional violations.
+
+A military strong enough to defend liberty must remain too constrained to govern the people it defends.
+
+---
+
+## XXII. Transition From the Existing System
+
+The United States cannot responsibly dismantle its present military overnight.
+
+The transition should occur gradually.
+
+### Stage One: Define the defensive mission
+
+Congress should identify:
+
+* direct homeland-defense requirements;
+* strategic deterrence requirements;
+* legitimate treaty commitments;
+* obsolete or discretionary missions.
+
+### Stage Two: Transfer appropriate force structure
+
+Selected active-duty units could be reorganized as:
+
+* state Guard units;
+* regional compact forces;
+* reserve formations;
+* federal strategic units.
+
+Personnel could be offered continuity of service through the new structures.
+
+### Stage Three: Expand state specialization
+
+States and regional compacts would develop designated capabilities based on geography, population, and existing facilities.
+
+### Stage Four: Reduce permanent overseas commitments
+
+Bases and deployments lacking a current defensive justification would be closed or reduced.
+
+### Stage Five: Shrink the federal administrative structure
+
+As operational responsibilities move to states and reserves, unnecessary headquarters, commands, agencies, and contracting structures should be eliminated.
+
+### Stage Six: Maintain readiness through exercise
+
+A distributed force that does not train together is merely a list of units.
+
+Federal, state, and regional forces should conduct regular:
+
+* command exercises;
+* mobilization drills;
+* communications tests;
+* logistics exercises;
+* cyber-defense exercises;
+* air and coastal defense drills;
+* medical and infrastructure-response exercises.
+
+The measure of success would not merely be reduced spending.
+
+It would be the ability to mobilize quickly, communicate securely, and fight effectively while maintaining constitutional control.
+
+---
+
+## XXIII. Proposed Constitutional Clarification
+
+The existing Constitution already supports much of this system, but an amendment or formal clarification could strengthen the division of authority.
+
+### Amendment — National Defense and the Forces of the States
+
+**Section 1.**
+The United States shall maintain those permanent naval, strategic, intelligence, cyber, air, space, and rapid-response forces reasonably necessary to defend the United States against immediate attack and to preserve the capacity of the several States to mobilize for the common defense.
+
+**Section 2.**
+Each State shall maintain, independently or through interstate compact, organized and trained defense forces sufficient to contribute equitably to the common defense. Such forces shall remain under the command of the State except when called into the actual service of the United States pursuant to this Constitution.
+
+**Section 3.**
+Congress may prescribe common standards of organization, training, equipment, discipline, communications, and readiness for forces eligible for federal service. The appointment of officers and the ordinary training and administration of state forces shall remain with the States.
+
+**Section 4.**
+The President may employ the armed forces immediately to repel an actual or clearly imminent attack upon the United States. Sustained hostilities beyond the period necessary for immediate defense shall require a declaration of war or a specific authorization enacted by Congress.
+
+**Section 5.**
+Every authorization for the use of military force shall identify its purpose, adversary, geographic scope, and duration and shall expire unless affirmatively renewed by Congress.
+
+**Section 6.**
+No state defense force shall be called into federal service for an indefinite term. Every activation shall state its purpose, scope, and duration and shall end when that purpose has been fulfilled or the lawful authorization expires.
+
+**Section 7.**
+Conscription shall be imposed only pursuant to a declaration of war and a specific finding by Congress that voluntary and reserve forces are insufficient to defend the United States against an actual or imminent threat of grave national harm.
+
+**Section 8.**
+Neither the armed forces of the United States nor the defense forces of a State shall exercise ordinary civilian police powers except as expressly authorized during invasion, insurrection, or a narrowly defined emergency and subject at all times to the Constitution and civil courts.
+
+---
+
+## XXIV. The Libertarian Position
+
+Libertarianism does not require military weakness.
+
+It requires that military power be directed toward the protection of liberty rather than the expansion of government.
+
+A country without an adequate defense invites conquest.
+
+A country with an unlimited military establishment invites intervention, debt, secrecy, executive expansion, and domestic coercion.
+
+The proper system lies between those dangers.
+
+The United States should maintain:
+
+* a small, professional federal strategic force;
+* a permanent Navy and strategic deterrent;
+* rapid air, cyber, missile, and coastal defense;
+* strong state-controlled Guard forces;
+* regional military compacts;
+* a deep voluntary trained reserve;
+* and a lawful mechanism for national mobilization.
+
+This arrangement would preserve immediate defensive capability while distributing military power across the states.
+
+It would make the country difficult to attack, difficult to occupy, and difficult for any single central authority to control through military force.
+
+---
+
+## XXV. Manifesto Summary
+
+The defense of the United States is a legitimate and essential function of constitutional government.
+
+Modern technology makes a complete rejection of standing forces unrealistic. Nuclear deterrence, submarines, air defense, cyber defense, warning systems, intelligence, and advanced aviation require continuous professional personnel.
+
+But this necessity does not justify a permanent military designed for global dominance.
+
+The federal government should maintain the strategic core necessary to detect attacks, deter enemies, protect the country immediately, and preserve the time required for broader mobilization.
+
+The states should maintain the greater part of the nation’s conventional reserve power through organized, trained, interoperable defense forces under their governors until lawfully called into national service.
+
+Citizens should be encouraged—but ordinarily not compelled—to maintain useful military, technical, medical, logistical, and civil-defense skills.
+
+Congress should decide whether the country enters sustained war. The President should command military operations and possess sufficient authority to repel immediate attacks, but emergency defense must not become permanent unilateral war-making power.
+
+The draft should remain an extraordinary last resort reserved for declared wars involving grave threats to the survival or territorial security of the United States.
+
+The purpose of this system is not to make America harmless.
+
+It is to make America defensible without making its government imperial.
+
+A free republic should possess enough force that foreign enemies cannot conquer it, while distributing and constraining that force so its own government cannot easily turn it against the people.
+
+A particularly important choice for the next revision will be whether the distributed forces remain fundamentally similar to today’s **National Guard**, with members simultaneously connected to state and federal reserve structures, or become genuinely separate **state military forces** that transfer temporarily into federal service only after activation. The latter better protects state authority; the former provides easier standardization and mobilization.
+
+[1]: https://constitution.congress.gov/browse/article-1/section-8/?utm_source=chatgpt.com "Article I Section 8 | Constitution Annotated | Library of Congress"
+[2]: https://constitution.congress.gov/browse/essay/artII-S2-C1-1-11/ALDE_00013473/?utm_source=chatgpt.com "Presidential Power and Commander in Chief Clause"
+[3]: https://www.nationalguard.mil/About-the-Guard/Army-National-Guard/FAQ/?utm_source=chatgpt.com "Frequently Asked Questions - Army National Guard"
+[4]: https://constitution.congress.gov/browse/article-2/section-2/?utm_source=chatgpt.com "Article II Section 2 | Constitution Annotated | Library of Congress"
+[5]: https://constitution.congress.gov/browse/essay/artI-S8-C11-1/ALDE_00013587/?utm_source=chatgpt.com "ArtI.S8.C11.1.1 Overview of Congressional War Powers"

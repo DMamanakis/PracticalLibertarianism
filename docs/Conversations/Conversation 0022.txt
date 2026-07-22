@@ -1,0 +1,421 @@
+You said, "Some claims have been investigated repeatedly without evidence that they changed election outcomes or reflected widespread fraud,"
+And I have had several people tell me this same thing.
+No fraud should be acceptable, even if it doesn't change the outcome. It still affects the people and their feelings over vote integrity. "Did we really elect so-and-so?" or "Did my vote get overruled by fraud?"...
+You did clarify, later on, and I agree...
+I don't think there was "widespread voter fraud", just that we hear the argument... and that is damaging enough... but it raises the questions...
+I am a test engineer, I ask these kinds of questions for a living and have done so for 30+ years.
+What if?
+then
+How do we "fix" or "prevent" it?
+
+You helped outline a great set of items to do so, and we should spend more time on it, along with some "newer" ideas that may fix other problems...
+For instance,
+We have about 1/3 of the voting age population as Democrat. We have about 1/3 of the voting age population as Republican. And there is about 1/3 of the voting population that is "something else"...
+This puts us in an interesting place, seeing that a full 1/3 of voters (in those 3 groups) simply don't vote because "it doesn't matter anyway", or they have been convinced of the lies that "your vote doesn't count" or "your vote is wasted if you vote '3rd party'"...
+ Is there benefit? Is there rationale to move to a "ranked choice voting" structure? I know some Libertarians HATE it, but I kinda like it, as it lends to the ability to vote your conscience, in may case, Libertarian, and still pick a "second choice" that might land on another candidate (if I choose to select another candidate) that I would be OK with, if they won... not my "first choice", but "they'll do"...
+This eliminates the "your vote won't count" and "your vote doesn't matter" by allowing the Libertarians to vote for that GREAT candidate... but preserve an OK candidate over "splitting the republican vote"...
+I think you get where I'm trying to go...
+Thoughts?
+
+
+
+
+
+
+
+
+
+I agree with your correction. Saying fraud was not “widespread” or did not change an outcome answers only one question:
+
+> **Was the final winner probably different?**
+
+It does not answer:
+
+> Was an unlawful vote cast?
+> Was a lawful vote displaced in practical effect?
+> Did the system detect and correct the defect?
+> Could the same defect be exploited at greater scale next time?
+> Can the public verify what happened?
+
+From a test-engineering perspective, “the defect did not change the production result” is not a reason to ignore the defect. It is a reason to determine its cause, severity, reproducibility, detectability, and potential future impact.
+
+## The “one-third” electorate
+
+Your three-part description is directionally useful, but current self-identification is even less favorable to the two-party assumption. Gallup’s 2025 average found approximately **45% identifying as independents, 27% as Republicans, and 27% as Democrats**. Many independents lean toward one major party when pressed, so this does not mean 45% consistently vote for third-party candidates. It does show that formal attachment to either major party is much weaker than the two-party electoral structure suggests. ([Gallup.com][1])
+
+That creates a genuine design problem. Under ordinary plurality voting, a voter may face three different choices:
+
+* vote for the candidate actually preferred;
+* vote strategically against the candidate most feared;
+* abstain because neither major candidate is acceptable.
+
+That is not necessarily fraudulent, but it can distort the expression of voter preference.
+
+# What ranked-choice voting actually changes
+
+In the common American single-winner version—usually called **instant-runoff voting**—the voter ranks candidates:
+
+1. Libertarian
+2. Republican
+3. Independent
+4. Democrat
+
+First choices are counted. When no candidate has the required majority, the lowest candidate is eliminated and those ballots transfer to the next continuing choice marked by each voter. The process repeats until someone wins.
+
+A voter is not required to rank every candidate. Ranking a second candidate does not reduce the value of the first-choice vote. The second preference is considered only after the first choice has been eliminated.
+
+That directly addresses the dilemma you described:
+
+> “I want the Libertarian, but I prefer the Republican to the Democrat.”
+
+The voter can express both preferences without initially abandoning the Libertarian candidate.
+
+## What it could improve
+
+### 1. It reduces the ordinary spoiler pressure
+
+RCV makes it less necessary to vote for the “lesser evil” on the first round. A third-party supporter can select that candidate first and identify an acceptable fallback.
+
+That does not guarantee third-party victory, but it gives third-party support a more accurate initial measurement.
+
+### 2. It reveals more information
+
+A plurality ballot records only one selection.
+
+A ranked ballot can reveal:
+
+* the voter’s genuine first choice;
+* which alternatives are acceptable;
+* which candidates are unacceptable;
+* how support transfers after elimination.
+
+That would tell us considerably more than simply observing that a Libertarian received 3% while wondering how many supporters reluctantly voted Republican instead.
+
+### 3. It can reward broader acceptability
+
+Candidates have a reason to seek second-choice support from voters outside their primary base.
+
+A Republican candidate might say to Libertarians:
+
+> “Even when I am not your first choice, here is why I should be your second.”
+
+A Libertarian could appeal to dissatisfied members of both major parties without demanding that they abandon every fallback option.
+
+Research summarized by the American Bar Association has examined whether RCV is associated with broader representation, less negative campaigning, and different voter experiences, although results vary by jurisdiction and study design. ([American Bar Association][2])
+
+### 4. It conducts a runoff without a second election
+
+Traditional runoff elections cost money and often have much lower participation than the original election. RCV effectively records each voter’s runoff instructions on the original ballot.
+
+### 5. It may provide a pathway for smaller parties
+
+The benefit may initially be less about winning and more about building credible support.
+
+Suppose the first-choice result is:
+
+* Republican: 41%
+* Democrat: 39%
+* Libertarian: 15%
+* Other: 5%
+
+Even if the Libertarian is eventually eliminated, 15% first-choice support becomes visible. The major candidates must consider where those voters’ later preferences will go.
+
+That creates negotiating and political influence that is largely hidden under plurality voting.
+
+# What ranked-choice voting does **not** solve
+
+RCV should not be presented as a cure for every electoral defect.
+
+It does not itself prevent:
+
+* false registrations;
+* ineligible voting;
+* duplicate voting;
+* ballot harvesting;
+* forged signatures;
+* chain-of-custody failures;
+* machine errors;
+* unlawful ballot alteration;
+* dishonest election officials;
+* deficient audits.
+
+Those require the integrity measures we were already discussing.
+
+RCV changes how valid votes are translated into a winner. It does not determine whether the underlying ballots are valid.
+
+# The strongest objections
+
+Some Libertarians object for reasons that deserve serious treatment.
+
+## 1. Ballot exhaustion
+
+A ballot becomes “exhausted” when all candidates ranked by the voter have been eliminated.
+
+Suppose someone marks only:
+
+1. Libertarian
+
+When that candidate is eliminated, the ballot does not transfer because the voter expressed no remaining preference.
+
+That is not necessarily a defective or discarded vote. It may accurately mean:
+
+> “I support this candidate and affirmatively decline to support anyone else.”
+
+But it means the eventual winner may receive a majority of the **continuing ballots**, not necessarily a majority of everyone who participated.
+
+Empirical research has found that exhaustion can produce winners with less than a majority of all ballots originally cast. Other research suggests some theoretical RCV pathologies rarely change real-world winners, while exhaustion is the most persistent practical concern. ([ScienceDirect][3])
+
+The solution is not to force voters to rank candidates they reject. It is to describe the result honestly:
+
+* “majority of continuing ballots,” when that is what occurred;
+* not “majority of all voters,” unless it actually was.
+
+## 2. Greater counting complexity
+
+A plurality election is conceptually straightforward:
+
+> Count each candidate’s votes; the highest total wins.
+
+RCV requires successive elimination and transfer rounds. That makes public explanation, auditing, recounting, and election-night reporting more complicated.
+
+This matters because your larger concern is public confidence.
+
+A theoretically fairer method can be counterproductive if voters experience the count as an unexplained algorithm operating in a back room.
+
+## 3. Results can take longer
+
+RCV tabulation cannot be finalized until substantially all valid ballots are available. Late-arriving lawful absentee ballots may change:
+
+* which candidate is last;
+* which candidate is eliminated;
+* where transferred ballots go;
+* and therefore the final result.
+
+This could aggravate the very concern you raised about elections taking days or weeks unless deadlines, preprocessing, reporting, and tabulation procedures are carefully designed.
+
+## 4. Strategic voting does not disappear
+
+RCV reduces one common form of strategic voting, but no practical electoral system completely eliminates strategy.
+
+In unusual configurations, ranking a candidate higher or lower can produce counterintuitive consequences. Mathematical properties such as nonmonotonicity and failure to select a candidate who would defeat every rival head-to-head are genuine theoretical concerns, although empirical studies suggest the most unusual paradoxes are uncommon in actual American RCV elections. ([arXiv][4])
+
+## 5. Ballot errors and unequal understanding
+
+Some voters may:
+
+* mark the same candidate repeatedly;
+* skip rankings;
+* rank more candidates than permitted;
+* misunderstand transfers;
+* incorrectly believe ranking a second choice harms the first.
+
+A fair implementation needs excellent ballot design, clear instructions, public demonstrations, and a meaningful ballot-curing process where voter intent can lawfully be established.
+
+## 6. It does not necessarily help every third party
+
+RCV permits a sincere first-choice vote, but it does not automatically overcome:
+
+* ballot-access barriers;
+* debate exclusions;
+* fundraising disadvantages;
+* media neglect;
+* single-member districts;
+* major-party organizational power.
+
+It removes one obstacle—the spoiler argument—but not the entire two-party structure.
+
+# A critical distinction: single-winner RCV versus proportional representation
+
+There are at least two substantially different reforms.
+
+## Instant-runoff voting
+
+Used to select one person for one office:
+
+* governor;
+* mayor;
+* senator;
+* president within a state;
+* a single congressional district.
+
+This reduces spoiler pressure but usually still produces one winner representing the entire district.
+
+## Single transferable vote
+
+Used in multi-member districts.
+
+Several representatives are elected, and votes transfer according to ranked preferences until the seats are filled.
+
+This can produce more proportional representation. A party or political group supported by 15% or 20% of voters may actually win representation rather than merely transfer its votes to a major-party finalist.
+
+That is the more structurally significant reform for third parties—but it would require multi-member legislative districts and raises a separate set of constitutional, statutory, and practical questions.
+
+For your immediate argument, I would focus on **single-winner instant-runoff voting**, then reserve proportional representation for a later section.
+
+# A test-engineered RCV system
+
+Given the principles you are developing, RCV should not be adopted merely by changing the ballot and purchasing tabulation software. It would need explicit, verifiable acceptance criteria.
+
+## 1. Paper ballot as the official record
+
+Every vote should produce a voter-verifiable paper ballot.
+
+Electronic systems may assist with marking or counting, but the paper ballot controls in an audit or recount.
+
+## 2. Voters may rank as many candidates as appear
+
+Jurisdictions should not arbitrarily allow only three rankings when eight candidates appear.
+
+Research suggests a ranking limit of at least three rarely changes winners in observed elections, but allowing full ranking avoids unnecessary ballot exhaustion caused by the government rather than the voter. ([arXiv][5])
+
+## 3. No mandatory ranking
+
+A voter should never be required to support an unacceptable candidate.
+
+Ranking one candidate must remain a complete and valid ballot.
+
+## 4. Simultaneous public reporting
+
+Election officials should publish:
+
+* first-choice totals;
+* ballots received;
+* ballots remaining to be processed;
+* invalid or challenged ballots;
+* every elimination round;
+* every transfer total;
+* exhausted-ballot totals;
+* the exact mathematical basis for the result.
+
+The public should be able to reproduce the outcome from the published cast-vote records while preserving ballot secrecy.
+
+## 5. Open and testable tabulation rules
+
+The algorithm should not be proprietary.
+
+The law—not a software vendor—must specify:
+
+* how ties are resolved;
+* how skipped rankings are treated;
+* how duplicate rankings are treated;
+* how write-ins are processed;
+* when ballots exhaust;
+* whether multiple candidates may be eliminated together;
+* the threshold needed to win.
+
+Independent observers should be able to implement the rule separately and obtain the same result.
+
+## 6. Pre-election test vectors
+
+As a test engineer, you will appreciate this one.
+
+Before certification, every tabulation system should be run against a publicly available suite containing:
+
+* normal ballots;
+* skipped rankings;
+* duplicate rankings;
+* overvotes;
+* undervotes;
+* write-ins;
+* ties;
+* exhausted ballots;
+* maximum candidate counts;
+* malformed data;
+* recount scenarios.
+
+The expected output for every round should be published.
+
+## 7. Deterministic tie rules
+
+A tied elimination cannot be decided through undocumented discretion.
+
+The rule should be prescribed before voting begins, perhaps using:
+
+* previous-round totals;
+* first-choice totals;
+* a publicly observed random process only as the final fallback.
+
+## 8. Mandatory post-election audit
+
+The audit must confirm both:
+
+* that ballot records match the paper ballots;
+* that the transfer algorithm produced the correct rounds and winner.
+
+## 9. Firm receipt and certification deadlines
+
+The state must decide before the election:
+
+* when mailed ballots must be received;
+* whether a postmark exception exists;
+* when curing ends;
+* when preliminary rounds may be calculated;
+* when the final tabulation occurs;
+* when certification must occur.
+
+No administrative official should improvise those rules during the count.
+
+## 10. Parallel tabulation
+
+For major federal or statewide contests, two independently developed tabulation implementations could process the same anonymized records.
+
+If both produce identical round-by-round results, confidence rises. A discrepancy automatically triggers investigation before certification.
+
+That is standard redundancy thinking applied to elections.
+
+# Where authority should reside
+
+The division from our earlier election chapter still works.
+
+## States should decide whether to use RCV for:
+
+* governor;
+* state legislature;
+* county and municipal offices;
+* state judicial elections;
+* allocation of presidential electors, subject to applicable constitutional requirements.
+
+## Congress could prescribe it for congressional elections
+
+The Elections Clause gives Congress power to make or alter state regulations governing the times, places, and manner of congressional elections. Whether Congress should exercise that power is a policy question, but the constitutional basis is substantially stronger for House and Senate elections than for ordinary state offices.
+
+Current practice remains divided. NCSL reports that RCV is used statewide in Alaska and Maine, is authorized or required in several jurisdictions, and is prohibited in 19 states as of its current survey. ([NCSL][6])
+
+For a federalist manifesto, the most internally consistent approach may be:
+
+> States may adopt different voting methods, but any method used for federal elections must satisfy common federal requirements for transparency, auditability, ballot preservation, equal treatment, and timely certification.
+
+That permits experimentation without permitting unverifiable systems.
+
+# My assessment of your rationale
+
+Your core reasoning is sound, provided the claim is carefully limited:
+
+> Ranked-choice voting substantially reduces the pressure to abandon a sincere first choice merely to prevent a less-preferred candidate from winning.
+
+It does **not** guarantee that every vote ultimately contributes to the winner. It does not eliminate strategic voting. It does not eliminate the two-party system. And it introduces complexity that must be controlled with exceptional transparency.
+
+But it does directly answer the familiar warning:
+
+> “A Libertarian vote is a wasted vote.”
+
+Under RCV, the voter may support the Libertarian first and permit the ballot to transfer later. The voter—not a party strategist—decides the fallback.
+
+That has an important libertarian quality:
+
+> It extracts more information from the voter without forcing the voter to support anyone.
+
+A concise manifesto principle might be:
+
+> **No citizen should be forced to conceal a sincere political preference merely to prevent the election of the candidate they oppose most. A lawful voting system should allow voters to express both their preferred candidate and their acceptable alternatives, while preserving the right to reject every remaining candidate.**
+
+And the integrity principle remains:
+
+> **Every eligible voter may cast one ballot. Every lawful ballot must be counted exactly once according to the voter’s expressed preferences. Every unlawful ballot must be counted zero times. Every stage of that determination must be capable of independent verification.**
+
+[1]: https://news.gallup.com/poll/700499/new-high-identify-political-independents.aspx?utm_source=chatgpt.com "New High of 45% in U.S. Identify as Political Independents"
+[2]: https://www.americanbar.org/groups/public_interest/election_law/american-democracy/our-work/what-we-know-about-ranked-choice-voting-2025/?utm_source=chatgpt.com "What We Know About Ranked Choice Voting, Updated for ..."
+[3]: https://www.sciencedirect.com/science/article/abs/pii/S0261379414001395?utm_source=chatgpt.com "Ballot (and voter) “exhaustion” under Instant Runoff Voting"
+[4]: https://arxiv.org/abs/2301.12075?utm_source=chatgpt.com "An Examination of Ranked Choice Voting in the United States, 2004-2022"
+[5]: https://arxiv.org/abs/2306.05966?utm_source=chatgpt.com "An Empirical Analysis of the Effect of Ballot Truncation on Ranked-Choice Electoral Outcomes"
+[6]: https://www.ncsl.org/elections-and-campaigns/ranked-choice-voting?utm_source=chatgpt.com "Brief Ranked Choice Voting"

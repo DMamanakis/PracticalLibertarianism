@@ -1,0 +1,792 @@
+Now lets look at the Voting Rights part...
+
+
+
+
+
+
+
+
+
+The critical distinction is between **who may vote**, **how elections are conducted**, and **whether constitutional rights are being violated**.
+
+The Constitution leaves most voter qualifications and election administration with the states. But it expressly gives Congress substantial authority over federal-election procedures and power to enforce the Reconstruction and voting-rights amendments. The federal government therefore has a legitimate role—but not unlimited authority to operate every voter roll or dictate every state and local election rule.
+
+# PART 3.3 — Voting Rights, Election Integrity, and Federalism
+
+## Protecting the Ballot Without Federalizing Elections
+
+## I. The Essential Question
+
+Elections are principally administered by the states.
+
+Nevertheless, federal offices are filled through those elections, constitutional rights may be violated through state election practices, and misconduct by one state can affect the composition and legitimacy of the national government.
+
+This creates a genuine federalism problem:
+
+> How can the United States protect the integrity of federal elections and the rights of lawful voters without converting every state election system into a centrally controlled federal operation?
+
+Two dangers must be avoided.
+
+The first is an election system so decentralized and unaccountable that a state or local jurisdiction can manipulate voter qualifications, registration lists, ballot access, district boundaries, or vote counting without meaningful remedy.
+
+The second is an election system so centralized that federal officials control voter databases, eligibility decisions, election procedures, and enforcement throughout the country.
+
+A constitutional libertarian system must protect against both forms of abuse.
+
+The proper division should be:
+
+* states determine voter qualifications within constitutional limits;
+* states and local governments ordinarily administer elections;
+* Congress establishes necessary procedures for federal elections;
+* the federal government enforces express constitutional voting protections;
+* courts resolve legal disputes;
+* and election records remain transparent, auditable, and subject to due process.
+
+The federal government should serve as a constitutional guarantor and interstate referee—not as the permanent operator of every election.
+
+---
+
+## II. Three Different Constitutional Questions
+
+Election debates often become confused because three separate powers are treated as though they were one.
+
+### A. Who is qualified to vote?
+
+For elections to the House of Representatives, the Constitution ties voter qualifications to those required for electors of the most numerous branch of the state legislature.
+
+The Seventeenth Amendment applies the same basic qualification rule to elections for the Senate.
+
+This means that states ordinarily establish the basic qualifications of their voters, subject to constitutional restrictions.
+
+The Elections Clause does not itself give Congress general authority to create voter qualifications. The Supreme Court has distinguished between the state power to determine who may vote and the power to regulate the mechanics by which federal elections are conducted. ([Congress.gov][1])
+
+States may therefore establish requirements such as:
+
+* citizenship;
+* residency;
+* age, subject to the Twenty-Sixth Amendment;
+* registration;
+* absence of disqualifying conditions that remain constitutionally permissible.
+
+But state authority is not absolute.
+
+States may not establish voter qualifications that violate:
+
+* the Fourteenth Amendment;
+* the Fifteenth Amendment;
+* the Nineteenth Amendment;
+* the Twenty-Fourth Amendment;
+* the Twenty-Sixth Amendment;
+* or other applicable constitutional protections.
+
+### B. How is a federal election conducted?
+
+Article I, Section 4—the Elections Clause—provides that state legislatures prescribe the times, places, and manner of holding elections for Senators and Representatives, but Congress may make or alter those regulations.
+
+That is an express grant of federal authority.
+
+Congress may regulate many procedural aspects of congressional elections, including matters involving:
+
+* voter registration procedures;
+* ballots;
+* election districts;
+* recordkeeping;
+* election safeguards;
+* registration forms;
+* vote-counting procedures;
+* protection against fraud;
+* administration necessary to conduct an orderly federal election.
+
+The Supreme Court has described election administration as including procedural requirements and safeguards necessary to protect the rights involved in elections. ([Congress.gov][2])
+
+This federal authority is strongest with respect to elections for the House and Senate.
+
+Presidential elections arise under a somewhat different constitutional structure. State legislatures determine the manner of appointing presidential electors under Article II, subject to constitutional amendments and applicable federal laws governing such matters as the date of the election and the counting of electoral votes.
+
+State and local offices remain more firmly within state authority, except where constitutional rights or valid federal civil-rights protections are implicated.
+
+### C. Is a constitutional voting right being violated?
+
+The Reconstruction Amendments and later voting amendments give Congress enforcement authority against prohibited discrimination.
+
+The Fifteenth Amendment prohibits denying or abridging voting rights because of race, color, or previous condition of servitude.
+
+The Nineteenth prohibits denial because of sex.
+
+The Twenty-Fourth prohibits poll taxes in federal elections.
+
+The Twenty-Sixth protects citizens eighteen years of age or older from age-based denial of the vote.
+
+The Fourteenth Amendment provides due-process and equal-protection guarantees and gives Congress authority to enforce its provisions through appropriate legislation. ([Congress.gov][3])
+
+This gives the federal government a legitimate role when a state:
+
+* intentionally discriminates against protected voters;
+* counts ballots under materially unequal standards;
+* denies due process;
+* dilutes voting power in violation of federal law;
+* or otherwise violates an express constitutional protection.
+
+The federal government is not interfering with state sovereignty when it prevents a state from violating the federal Constitution.
+
+The Constitution is part of the agreement by which state power is recognized.
+
+---
+
+## III. Citizenship Is a Legitimate Voting Qualification
+
+Citizenship is a legitimate requirement for participation in federal elections.
+
+Federal law already generally prohibits noncitizens from voting in federal elections, subject to limited statutory exceptions involving elections where federal offices are not affected.
+
+The dispute is therefore not principally over whether noncitizens should vote in federal elections.
+
+The real questions are:
+
+* how citizenship should be verified;
+* what evidence should be accepted;
+* who bears the burden of correcting government records;
+* what happens when documents contain errors or changed names;
+* and whether a verification requirement unnecessarily excludes eligible citizens.
+
+A declaration of citizenship without meaningful verification creates opportunities for error or misconduct.
+
+A documentary system so inflexible that lawful citizens cannot satisfy it creates a different form of injustice.
+
+Both concerns are legitimate.
+
+The constitutional objective should be:
+
+> Every eligible citizen should be able to register and vote, and every ineligible person should be prevented from voting, through a process that is accurate, accessible, auditable, and subject to due process.
+
+Protecting access and protecting integrity are not opposing purposes.
+
+Both protect the same ballot.
+
+---
+
+## IV. The National Voter Registration Act
+
+The National Voter Registration Act of 1993, commonly called the NVRA or Motor Voter Act, regulates registration for federal elections.
+
+Among other things, it requires covered states to provide registration opportunities through:
+
+* motor-vehicle agencies;
+* mail registration;
+* public-assistance agencies;
+* disability-service offices;
+* other designated registration agencies.
+
+It also requires states to maintain accurate and current registration lists while limiting removal practices that may improperly disenfranchise lawful voters. ([Department of Justice][4])
+
+The NVRA therefore has two objectives that should not be separated:
+
+1. increasing lawful access to voter registration;
+2. preserving accurate voter-registration records.
+
+Section 8 requires states to conduct reasonable list-maintenance programs, while also imposing procedural protections.
+
+It generally prohibits states from removing registered voters merely because they failed to vote.
+
+It prescribes procedures involving address changes and confirmation notices.
+
+It also restricts systematic removal programs during the ninety days preceding a federal election, while permitting certain individualized removals, including those involving death, criminal disqualification where applicable, or a voter’s request.
+
+The NVRA is not simply a prohibition on cleaning voter rolls.
+
+It requires maintenance while regulating how that maintenance is performed.
+
+### The constitutional basis
+
+For federal elections, much of the NVRA rests on Congress’s Elections Clause authority to alter state procedures concerning the manner of conducting congressional elections.
+
+That is a substantial constitutional basis.
+
+The harder question arises when a federal registration procedure interferes with a state’s ability to enforce a legitimate voter qualification.
+
+In *Arizona v. Inter Tribal Council of Arizona*, the Supreme Court held that Arizona generally had to accept the federal registration form for federal elections even though the form did not require the separate documentary proof of citizenship demanded by Arizona.
+
+At the same time, the Court recognized that voter qualifications remain primarily a state responsibility and warned that serious constitutional questions would arise if federal law made it impossible for a state to obtain information necessary to enforce those qualifications. ([Supreme Court][5])
+
+This exposes the central weakness in the present arrangement:
+
+> Congress may control registration procedures for federal elections, but those procedures should not prevent states from reliably confirming that applicants meet lawful voter qualifications.
+
+The solution should not be to abandon federal standards.
+
+It should be to design federal standards that enable accurate verification while protecting eligible voters.
+
+---
+
+## V. What the NVRA Gets Right
+
+A libertarian election system should preserve several NVRA principles.
+
+### Accessible registration
+
+A citizen should not have to navigate an expensive or obscure bureaucracy merely to register.
+
+Registration should be:
+
+* readily available;
+* inexpensive or free;
+* understandable;
+* accessible to disabled citizens;
+* available through several ordinary government interactions;
+* correctable when records contain errors.
+
+### Protection against arbitrary removal
+
+A voter should not lose registration merely because:
+
+* the person did not vote recently;
+* a database produced an unexplained mismatch;
+* another person has a similar name;
+* a notice was lost;
+* an agency record is outdated;
+* the voter changed a surname;
+* the government made a clerical error.
+
+Removal from a voter roll affects the exercise of a constitutional right and should require reliable evidence and an opportunity to correct the record.
+
+### Public and auditable maintenance procedures
+
+States should disclose:
+
+* the standards used to identify potentially ineligible registrations;
+* the databases consulted;
+* the number and basis of removals;
+* error-correction procedures;
+* notice requirements;
+* audit results.
+
+A secret voter list is incompatible with public confidence.
+
+Private information must be protected, but the process must be reviewable.
+
+---
+
+## VI. What the NVRA Should Improve
+
+The NVRA should not be interpreted or administered as though inaccurate voter rolls were harmless.
+
+States should be affirmatively required to reconcile reliable records involving:
+
+* deaths;
+* confirmed interstate moves;
+* duplicate registrations;
+* loss of eligibility under valid state law;
+* noncitizenship established through reliable evidence;
+* fictitious or invalid addresses;
+* other demonstrable registration defects.
+
+However, a registration record and a fraudulent vote are not the same thing.
+
+A person may remain registered at an old address without casting an unlawful ballot.
+
+A deceased person may remain on a list because government systems have not yet synchronized.
+
+Duplicate records may result from moves, name changes, or administrative errors.
+
+List inaccuracies must be corrected, but they should not automatically be represented as proof that fraudulent votes were cast.
+
+Accuracy requires distinguishing:
+
+* an outdated registration;
+* an ineligible registration;
+* an attempted unlawful ballot;
+* and an unlawful ballot actually counted.
+
+These are different problems and should be reported separately.
+
+---
+
+## VII. The Voting Rights Act
+
+The Voting Rights Act of 1965 was enacted principally under Congress’s authority to enforce the Fifteenth Amendment.
+
+Its central purpose is to prevent racial discrimination in voting.
+
+### Section 2
+
+Section 2 prohibits voting practices or procedures that discriminate on the basis of race, color, or membership in specified language-minority groups. ([Department of Justice][6])
+
+This is a legitimate federal function.
+
+A state may administer its own elections, but it may not use that authority to deny citizens equal voting rights on prohibited grounds.
+
+Section 2 provides a federal remedy when state political processes violate those protections.
+
+A libertarian federal system should retain a clear remedy for:
+
+* intentional racial exclusion;
+* discriminatory registration systems;
+* discriminatory ballot access;
+* unlawful vote dilution;
+* unequal treatment of lawful voters.
+
+### Section 5 and preclearance
+
+Section 5 formerly required certain covered jurisdictions to obtain federal approval before changing voting practices.
+
+In *Shelby County v. Holder*, the Supreme Court invalidated the coverage formula in Section 4(b) that determined which jurisdictions were subject to preclearance. The Court did not formally invalidate Section 5 itself, but without a valid coverage formula, the general preclearance system ceased operating as it previously had. ([Department of Justice][7])
+
+The constitutional concern was not that Congress can never prevent discriminatory voting laws.
+
+It was that extraordinary federal supervision of selected states must be justified by current conditions and cannot rest indefinitely on an outdated formula.
+
+That principle fits a restrained federal model.
+
+Extraordinary federal remedies should be:
+
+* tied to demonstrated violations;
+* based on current evidence;
+* proportionate to the misconduct;
+* limited in duration;
+* subject to judicial review;
+* removed when the justification ends.
+
+A state or locality that repeatedly and deliberately violates constitutional voting rights may properly face heightened supervision.
+
+But federal supervision should follow proved misconduct, not become permanent merely because of events generations earlier.
+
+---
+
+## VIII. The SAVE Act and SAVE America Act
+
+The original SAVE Act proposals sought to amend the NVRA by requiring documentary proof of United States citizenship for registration in federal elections.
+
+The expanded SAVE America Act considered during the 119th Congress added broader provisions, including proof-of-citizenship requirements for federal registration and voter-identification requirements for voting in federal elections. The House passed a version on February 11, 2026. Senate efforts subsequently stalled, and as of July 20, 2026, it had not become law. ([GovInfo][8])
+
+The legislation’s supporters argue that it would:
+
+* ensure that only citizens register;
+* provide states with verification tools;
+* establish uniform integrity standards;
+* increase confidence in federal elections.
+
+Its opponents argue that it could:
+
+* burden citizens who lack readily available documents;
+* create difficulties for people whose names have changed;
+* disproportionately affect elderly, rural, low-income, or disabled voters;
+* create erroneous removals based on imperfect databases;
+* interfere with established state election systems.
+
+Both sets of concerns should be evaluated on their merits rather than dismissed through assumptions about political motives.
+
+### Is a federal proof-of-citizenship requirement constitutional?
+
+There is a plausible constitutional basis for Congress to require reliable registration procedures in federal elections under the Elections Clause.
+
+A documentary citizenship requirement could be characterized as a procedural safeguard governing registration rather than a new voter qualification. Citizenship would remain the qualification; documentation would be the method of verifying it.
+
+However, constitutional questions could arise if the federal requirement:
+
+* effectively prevents eligible citizens from registering;
+* offers no reasonable alternative verification procedure;
+* imposes significant costs equivalent to a voting fee;
+* operates irrationally or discriminatorily;
+* commandeers state systems beyond Congress’s federal-election authority;
+* is applied to state and local elections without an independent constitutional basis.
+
+No court can conclusively resolve every challenge until a specific law is enacted and applied to specific facts.
+
+The strongest version of proof-of-citizenship legislation would therefore include generous protections for eligible citizens.
+
+---
+
+## IX. A Better Proof-of-Citizenship System
+
+A person should ordinarily prove citizenship once.
+
+After verification, the status should follow the voter unless reliable evidence indicates that the record was erroneous.
+
+Acceptable proof should include more than a passport or original birth certificate.
+
+Verification could use:
+
+* a United States passport;
+* a certified birth record;
+* a certificate of naturalization or citizenship;
+* a federally recognized tribal document establishing citizenship;
+* a state record already based on verified citizenship;
+* secure confirmation through an authoritative government database;
+* a combination of identity records;
+* a prompt individualized administrative hearing when ordinary records are unavailable.
+
+The system should provide free assistance to citizens who lack necessary documents.
+
+Government should not demand a document and then charge a citizen an unreasonable price to obtain it as a condition of voting.
+
+Special procedures are necessary for:
+
+* married citizens whose names have changed;
+* adopted citizens;
+* citizens born abroad;
+* naturalized citizens;
+* elderly citizens with incomplete records;
+* citizens born in jurisdictions where old records were lost or destroyed;
+* tribal citizens;
+* citizens affected by clerical discrepancies.
+
+A sworn affidavit may be appropriate as a temporary measure, provided that it is followed by verification and meaningful penalties for intentional fraud.
+
+The objective is conclusive eligibility—not bureaucratic exclusion.
+
+---
+
+## X. Federal Verification Without a Federal Voter Roll
+
+The federal government possesses records that may assist states in confirming citizenship, death, identity, and interstate movement.
+
+But creating a single federally controlled master voter roll would concentrate too much political power in the national executive.
+
+The federal government should instead maintain verification interfaces through which states can submit limited inquiries.
+
+The system should operate similarly to the interoperability model proposed for distributed military forces:
+
+> States retain and administer their own voter rolls, while common standards allow reliable verification across jurisdictions.
+
+The federal role could include:
+
+* confirming citizenship records held by federal agencies;
+* notifying states of verified deaths;
+* assisting with duplicate interstate registrations;
+* publishing technical standards;
+* auditing compliance with federal-election requirements;
+* investigating credible violations;
+* providing an appeals channel when federal records are wrong.
+
+The federal system should not:
+
+* add or remove voters directly from state rolls;
+* rely on a database mismatch as conclusive evidence of ineligibility;
+* secretly change a citizen’s voting status;
+* combine voter records into a general surveillance system;
+* distribute sensitive personal data beyond legitimate election purposes.
+
+A federal database response should be evidence provided to the state.
+
+It should not be the final legal decision.
+
+The state election authority should make that decision through a process subject to notice, correction, and judicial review.
+
+---
+
+## XI. State Verification and Interstate Cooperation
+
+States should participate in secure interstate systems that identify:
+
+* duplicate active registrations;
+* voters who have permanently relocated;
+* confirmed deaths;
+* conflicting registration information.
+
+But interstate matching must be based on more than weak similarities.
+
+A shared name and birth year are not enough to remove someone.
+
+Reliable matching should use several data points and distinguish between:
+
+* identical persons;
+* relatives with similar names;
+* twins;
+* common surnames;
+* clerical errors;
+* temporary relocations;
+* military and student addresses.
+
+When an apparent conflict is found, the state should investigate.
+
+It should not automatically purge.
+
+Interstate cooperation is particularly appropriate because no individual state can independently determine whether a voter has registered or voted in several states.
+
+The federal government may provide an interstate framework, technical assistance, and enforcement against actual double voting without taking ownership of the state rolls.
+
+---
+
+## XII. Voter Identification
+
+Requiring a voter to establish identity is compatible with election integrity, provided the requirement does not operate as a substantial financial or practical barrier to lawful voting.
+
+A constitutional voter-identification system should provide:
+
+* a secure government-issued identification card at no charge;
+* broad availability through local offices and mobile services;
+* alternative procedures for voters whose identification has been lost or stolen;
+* reasonable treatment of name and address discrepancies;
+* provisional ballots with prompt opportunities to cure;
+* absentee and military-voter procedures appropriate to their circumstances.
+
+A state cannot fairly insist upon identification while making identification difficult or expensive to obtain.
+
+The government imposing the requirement carries a corresponding obligation to make compliance realistically available.
+
+Identification confirms identity.
+
+It should not be confused with proof of citizenship unless the underlying identification was issued only after citizenship was verified.
+
+---
+
+## XIII. Mail Voting and Absentee Ballots
+
+The Constitution does not require every state to use the same method of voting.
+
+States may make different policy choices concerning:
+
+* universal mail voting;
+* excuse-based absentee voting;
+* early voting;
+* in-person voting;
+* ballot drop boxes;
+* ballot collection;
+* signature verification.
+
+For congressional elections, Congress may establish minimum or overriding procedural rules under the Elections Clause.
+
+But a libertarian system should ordinarily preserve state experimentation unless a practice creates a demonstrated constitutional or interstate problem.
+
+Mail voting raises legitimate considerations involving:
+
+* identity verification;
+* chain of custody;
+* ballot secrecy;
+* timely delivery;
+* signature or other authentication;
+* ballot harvesting;
+* cure procedures;
+* postmark and receipt deadlines;
+* public observation.
+
+Those concerns justify clear safeguards.
+
+They do not establish that every mailed ballot is suspect.
+
+Likewise, convenience does not justify weak custody or indefinite counting rules.
+
+States should establish in advance:
+
+* when ballots must be sent;
+* when they must be returned;
+* when counting may begin;
+* the final deadline for counting;
+* how voters may cure defects;
+* how observers may inspect the process;
+* how ballot custody is documented.
+
+Election rules should not be rewritten after voting begins except where a court finds that constitutional rights require an immediate remedy.
+
+---
+
+## XIV. Federal Election Audits
+
+Congress has a legitimate interest in knowing that members of the House and Senate were chosen through lawful elections.
+
+A federal audit standard could therefore apply to federal contests without transferring election administration to Washington.
+
+States should be required to preserve:
+
+* ballots;
+* ballot images where used;
+* poll books;
+* registration records;
+* adjudication records;
+* chain-of-custody logs;
+* machine configuration and test records;
+* canvass and certification records.
+
+Post-election audits should use transparent and statistically credible methods.
+
+Audits should test:
+
+* whether machines counted accurately;
+* whether reported totals match preserved ballots;
+* whether invalid ballots were excluded;
+* whether valid ballots were counted;
+* whether custody records are complete.
+
+An audit is not a partisan recount.
+
+It is a routine quality-control process.
+
+Regular audits reduce the need to treat every close election as evidence of conspiracy.
+
+---
+
+## XV. Federal Enforcement
+
+Federal criminal enforcement should focus on identifiable misconduct involving federal elections or constitutional rights, including:
+
+* intentional noncitizen voting where prohibited;
+* multiple voting;
+* ballot destruction;
+* ballot alteration;
+* fraudulent registration;
+* vote buying;
+* intimidation;
+* deliberate falsification of election records;
+* obstruction of lawful counting;
+* conspiracy by officials to count or exclude ballots unlawfully;
+* discrimination prohibited by the Constitution and valid federal law.
+
+Federal investigators should require:
+
+* defined jurisdiction;
+* probable cause;
+* warrants where constitutionally required;
+* transparent charging decisions;
+* judicial supervision.
+
+Federal election enforcement must not become a mechanism for intimidating lawful voters, monitoring political association, or placing federal agents at polling locations without a specific legal justification.
+
+The federal government should investigate crimes.
+
+It should not oversee ordinary voting through a visible police presence.
+
+---
+
+## XVI. A Federal Election Integrity Framework
+
+A constitutional reform could establish the following division.
+
+### States would retain authority over:
+
+* voter qualifications, within constitutional limits;
+* ownership and maintenance of voter rolls;
+* polling locations;
+* election personnel;
+* methods of voting;
+* state and local elections;
+* ordinary canvassing and certification;
+* procedures not preempted for federal elections.
+
+### Congress could regulate federal-election procedures involving:
+
+* common federal registration standards;
+* citizenship-verification access;
+* record retention;
+* audits;
+* ballot-security minimums;
+* interstate duplicate detection;
+* deadlines necessary for federal certification;
+* protection against fraud and intimidation.
+
+### The federal government would enforce:
+
+* constitutional nondiscrimination requirements;
+* federal-election crimes;
+* lawful federal standards;
+* interstate disputes;
+* federal court judgments.
+
+### Courts would protect:
+
+* eligible voters wrongfully excluded;
+* states whose lawful qualification rules are obstructed;
+* candidates affected by unlawful procedures;
+* citizens whose equal-protection or due-process rights are violated.
+
+This division recognizes elections as state-administered institutions with national constitutional consequences.
+
+---
+
+## XVII. Proposed Constitutional Standard
+
+### Amendment — Election Integrity and the Rights of Electors
+
+**Section 1.**
+The several States shall prescribe the qualifications of electors for elections held within their jurisdiction, subject to this Constitution. Citizenship of the United States may be required for participation in any public election.
+
+**Section 2.**
+Each State shall administer and maintain its own voter-registration records and election systems. No officer of the United States shall add or remove an elector from a State registration list except pursuant to a final judgment of a court of competent jurisdiction.
+
+**Section 3.**
+Congress may establish uniform minimum procedures for elections for federal office, including standards for registration, verification, record preservation, auditing, ballot security, and the prevention of fraud, provided that such standards do not create voter qualifications inconsistent with this Constitution or unreasonably burden the exercise of the franchise by eligible citizens.
+
+**Section 4.**
+The United States may provide the States with secure means to verify citizenship, identity, death, and interstate registration information. No adverse database response shall by itself constitute conclusive proof of ineligibility.
+
+**Section 5.**
+No eligible citizen shall be denied registration or a ballot without notice and a meaningful opportunity for timely correction or review, except where the citizen’s ineligibility has been conclusively established according to law.
+
+**Section 6.**
+Congress may enforce the constitutional voting rights of citizens and may prohibit fraud, intimidation, corruption, and discrimination in elections for federal office and as otherwise expressly authorized by this Constitution.
+
+**Section 7.**
+Election records necessary to verify reported results shall be preserved and made available for public audit subject to reasonable protections for ballot secrecy and personal information.
+
+---
+
+## XVIII. The Libertarian Position
+
+Voting is not merely a government service.
+
+It is the mechanism through which citizens choose the officials who exercise government power.
+
+Election integrity therefore protects individual liberty.
+
+But election administration also carries enormous potential for government abuse.
+
+A centralized authority that controls registration, eligibility, election rules, enforcement, and certification could use that power against political opponents or disfavored citizens.
+
+A completely fragmented system can permit local corruption and unequal treatment.
+
+The proper system distributes power while requiring transparency.
+
+States should own and administer their elections.
+
+Federal standards should apply where federal offices or constitutional rights are involved.
+
+Citizenship should be verified through an accessible and reliable process.
+
+Voter rolls should be maintained accurately, but no citizen should be removed because of an unexplained database discrepancy.
+
+Identification may be required, but compliant identification must be readily and freely available.
+
+Fraud should be prosecuted, but ordinary voters should not be treated as suspects.
+
+Discrimination should be remedied, but extraordinary federal supervision should be tied to demonstrated and current violations.
+
+---
+
+## XIX. Manifesto Summary
+
+The Constitution gives states the principal role in establishing voter qualifications and administering elections.
+
+It also gives Congress express authority to regulate the times, places, and manner of congressional elections and to enforce constitutional voting protections.
+
+The federal government therefore has a legitimate but limited election role.
+
+The National Voter Registration Act rests substantially on Congress’s authority over federal-election procedures. Its protections against arbitrary removal and its requirements for accessible registration should be preserved. Its list-maintenance obligations should be enforced seriously rather than treated as optional.
+
+The Voting Rights Act properly protects citizens against racial discrimination and other constitutionally prohibited practices. Extraordinary federal remedies, however, should be based on present evidence, proportionate to demonstrated violations, and subject to periodic review.
+
+Proof of citizenship for federal registration is not inherently incompatible with the Constitution. But it must be implemented in a manner that reliably confirms eligibility without making government paperwork an unreasonable barrier to lawful citizens.
+
+The federal government should provide states with secure verification tools, common standards, audits, and enforcement against actual violations.
+
+It should not own the voter rolls or possess unilateral power to remove citizens from them.
+
+Election integrity means more than preventing an unlawful vote.
+
+It also means ensuring that every lawful vote is accepted, protected, counted accurately, and capable of verification.
+
+The goal is neither federal control nor state impunity.
+
+It is a system in which authority remains distributed, records remain auditable, constitutional rights remain enforceable, and every counted ballot belongs to a legally eligible voter.
+
+The central conclusion is that the **NVRA and Voting Rights Act do not invent federal election authority**, although individual provisions may exceed that authority if applied too broadly. They operate within powers already provided by the Elections Clause and the voting-rights amendments.
+
+The SAVE proposal is constitutionally strongest when limited to **federal elections**, structured as a verification procedure rather than a new voter qualification, and paired with free documentation, alternative verification, notice, and meaningful appeal rights.
+
+[1]: https://constitution.congress.gov/browse/essay/artI-S4-C1-2/ALDE_00013577/?utm_source=chatgpt.com "States and Elections Clause | Constitution Annotated"
+[2]: https://constitution.congress.gov/browse/essay/artI-S4-C1-3/ALDE_00013640/?utm_source=chatgpt.com "ArtI.S4.C1.3 Congress and Elections Clause"
+[3]: https://constitution.congress.gov/constitution/amendment-14/?utm_source=chatgpt.com "Fourteenth Amendment | Resources - Constitution Annotated"
+[4]: https://www.justice.gov/crt/nvra-list-maintenance-guidance?utm_source=chatgpt.com "Civil Rights Division | NVRA List Maintenance Guidance"
+[5]: https://www.supremecourt.gov/DocketPDF/25/25-1017/401891/20260326095526013_25-1017%2025-1019%20Amicus%20Brief.pdf?utm_source=chatgpt.com "Amicus Brief of Center for Election Confidence"
+[6]: https://www.justice.gov/crt/section-2-voting-rights-act?utm_source=chatgpt.com "Section 2 Of The Voting Rights Act"
+[7]: https://www.justice.gov/crt/about-section-5-voting-rights-act?utm_source=chatgpt.com "About Section 5 Of The Voting Rights Act"
+[8]: https://www.govinfo.gov/content/pkg/CREC-2026-02-11/html/CREC-2026-02-11-pt1-PgH2138.htm?utm_source=chatgpt.com "Congressional Record, Volume 172 Issue 29 (Wednesday ..."
