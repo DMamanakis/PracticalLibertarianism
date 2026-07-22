@@ -16,20 +16,23 @@ Practical Libertarianism is a long-form, constitutionally grounded policy manusc
 ├── Research Papers/         # Supporting legal/historical/economic research
 ├── Proposals/               # Constitutional, legislative, and transition proposals
 ├── docs/                    # Working records, planning, and decision artifacts
-├── references/              # Canonical reference material
+├── References/              # Canonical primary and secondary sources
 ├── assets/                  # Diagrams and media
 ├── PROJECT_REQUIREMENTS_SPECIFICATION.md
 ├── MASTER_ARCHITECTURE.md
-├── STYLE_GUIDE.md
-└── WORK_ITEMS.md
+└── STYLE_GUIDE.md
 ```
 
 ## Working Documents
 
-- `MASTER_ARCHITECTURE.md`: mission, standards, and quality gates.
-- `STYLE_GUIDE.md`: editorial and structural writing standards.
-- `PROJECT_REQUIREMENTS_SPECIFICATION.md`: requirements and status checklists.
+- `PROJECT_REQUIREMENTS_SPECIFICATION.md`: authoritative organizational chart,
+  identifiers, content inventory, traceability record, and backlog.
+- `MASTER_ARCHITECTURE.md`: durable mission, scope, and quality principles.
+- `STYLE_GUIDE.md`: editorial, structural, and source standards.
 - `CHANGELOG.md`: notable repository changes.
+
+Do not create a separate project checklist. Add chapters and work to
+`PROJECT_REQUIREMENTS_SPECIFICATION.md` using its identifier system.
 
 ## Editorial Workflow
 

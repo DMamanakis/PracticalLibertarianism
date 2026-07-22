@@ -1,5 +1,3 @@
-# STYLE_GUIDE.md
-
 # Project Style Guide
 
 ## Purpose
@@ -16,6 +14,9 @@ Practical Libertarianism project.
 -   Prefer precise language over emotionally loaded language.
 
 ## Chapter Template
+
+Begin with the tracking header defined in
+`PROJECT_REQUIREMENTS_SPECIFICATION.md`, followed by:
 
 1.  Executive Summary
 2.  Constitutional Framework
@@ -46,6 +47,6 @@ difficulty - Transition plan
 Manifesto Chapters = reader-facing. Research Papers = supporting
 evidence. Proposals = implementation documents.
 
-## Status Tags
+## Status
 
-Draft • Research • Review • Citation Complete • Final
+Use only the statuses defined in `PROJECT_REQUIREMENTS_SPECIFICATION.md`.

@@ -6,6 +6,12 @@ This project follows a running engineering-style changelog.
 
 ### Added
 
+-   Canonical identifier system for manuscript chapters, research papers,
+    proposals, references, and project work
+-   Consolidated organizational chart, traceability registers, and backlog in
+    `PROJECT_REQUIREMENTS_SPECIFICATION.md`
+-   Document intake guidance and top-level research, proposal, and reference
+    guidance
 -   Initial project architecture
 -   Repository organization
 -   Working table of contents
@@ -18,6 +24,16 @@ This project follows a running engineering-style changelog.
 -   `CONTRIBUTING.md` with contribution workflow and checklist
 -   `docs/GITHUB_SETUP.md` with first-time repository publish commands
 -   Expanded `README.md` with project goals and publishing reference
+
+### Changed
+
+-   Aligned repository, contribution, architecture, and style guidance with the
+    canonical requirements specification
+
+### Removed
+
+-   Superseded table-of-contents, status-outline, content-inventory, master
+    checklist, work-item, and traceability-backlog trackers
 
 ### Planned
 

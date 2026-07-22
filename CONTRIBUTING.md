@@ -17,15 +17,18 @@ This repository combines manuscript content, research evidence, and implementati
 
 ## Recommended Process
 
-1. Open or update a work item in `WORK_ITEMS.md`.
+1. Add or update the item in `PROJECT_REQUIREMENTS_SPECIFICATION.md`.
 2. Draft content in the appropriate directory.
-3. Update `PROJECT_REQUIREMENTS_SPECIFICATION.md` checkboxes/status.
+3. Put the assigned ID, status, dependencies, and open-work IDs at the top of
+   the working document.
 4. Add an entry in `CHANGELOG.md` under `Unreleased`.
 5. Commit with a clear message that describes the content change.
 
 ## Pull Request Checklist
 
 - [ ] Content is in the correct top-level folder.
+- [ ] Its identifier is registered and has not already been used.
 - [ ] Claims are source-backed or explicitly marked as opinion.
-- [ ] Related status/checklist items were updated.
+- [ ] Dependencies are recorded both in the working document and specification.
+- [ ] Related status and work items were updated in the specification.
 - [ ] `CHANGELOG.md` was updated.

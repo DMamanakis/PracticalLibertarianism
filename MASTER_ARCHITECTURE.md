@@ -46,36 +46,26 @@ Working drafts including: - Constitutional amendments - Model
 legislation - Implementation plans - Election models - Mathematical
 analysis - White papers
 
+### References
+
+Canonical primary and secondary source records.
+
+### Project Control
+
+`PROJECT_REQUIREMENTS_SPECIFICATION.md` is the sole authoritative project map,
+content inventory, traceability record, and backlog. This architecture document
+defines durable principles and does not track completion.
+
 ## Chapter Standard
 
-Every chapter should contain:
-
-1.  Executive Summary
-2.  Current Constitutional Framework
-3.  Historical Context
-4.  Current Law
-5.  Problem Statement
-6.  Proposed Solution
-7.  Advantages
-8.  Risks / Counterarguments
-9.  Implementation
-10. Conclusion
-11. References
+Every chapter follows the structure and source standards in `STYLE_GUIDE.md`.
+Every tracked document follows the identifier and header rules in
+`PROJECT_REQUIREMENTS_SPECIFICATION.md`.
 
 ## Quality Gates
 
 Research → Outline → Draft → Constitutional Review → Technical Review →
 Citation Review → Editorial Review → Publish
-
-## Versioning
-
-Semantic versioning is recommended:
-
-Major.Minor.Revision
-
-Example:
-
-1.4.2
 
 ## Long-Term Goal
 

@@ -1,160 +1,573 @@
-# Project Requirements Specification
+# Practical Libertarianism Project Requirements Specification
 
-## 1. Project Information
+> **Authoritative project record:** This file is the organizational chart, content
+> inventory, traceability record, and work backlog for the project. When another
+> planning document conflicts with this file, this file governs.
 
-- **Purpose:** _TBD_
-- **Mission:** _TBD_
-- **Audience:** _TBD_
-- **Publication goals:** _TBD_
-- **Repository layout:** _TBD_
+## 1. Project Definition
 
-## 2. Project Status
+**Purpose:** Present a practical libertarian framework grounded in the United
+States Constitution, original public meaning, federalism, individual liberty,
+and limited government.
 
-| Area | Completion |
-| --- | --- |
-| Overall completion | _TBD_ |
-| Part 1 completion | _TBD_ |
-| Chapter 1 completion (Part 1) | _TBD_ |
-| Part 2 completion | _TBD_ |
-| Chapter 1 completion (Part 2) | _TBD_ |
-| Part 3 completion | _TBD_ |
-| Chapter 1 completion (Part 3) | _TBD_ |
-| Part 4 completion | _TBD_ |
-| Chapter 1 completion (Part 4) | _TBD_ |
-| Part 5 completion | _TBD_ |
-| Chapter 1 completion (Part 5) | _TBD_ |
-| Research completion | _TBD_ |
-| Proposal completion | _TBD_ |
-| Reference completion | _TBD_ |
+**Mission:** Propose reforms that distribute authority, improve accountability
+and transparency, and preserve workable constitutional institutions rather than
+discarding them.
 
-## 3. Canonical Book Structure
+**Audience:** General readers, policymakers, legislators, constitutional
+scholars, and students.
 
-### Part I
-- `MC-101` Practical Libertarianism
-- `MC-102` Originalism
-- `MC-103` Federalism
-- `MC-104` Rights
-- `MC-105` Property
+**Publication goal:** A publishable five-part book supported by independently
+verifiable research and concrete legal and policy proposals.
 
-### Part II
-- `MC-201` The Constitution
-- `MC-202` The Bill of Rights
+## 2. How to Use This File
 
-### Part III
-- `MC-301` Election Integrity
+1. Add every planned chapter or supporting document to the appropriate register.
+2. Give it the next available identifier in its part and hundred block.
+3. Add missing sections, questions, research, citations, and review needs beneath
+   the parent item as numbered work items.
+4. Record dependencies in both places: here and in the working document.
+5. Check off completed work here. Update the working document's header at the
+   same time when practical; if the two disagree, reconcile them during review.
+6. Never reuse a retired identifier. Mark it `CANCELLED` or `SUPERSEDED` and link
+   to its replacement.
 
-### Part IV
-- `MC-401` Money
+This file tracks content readiness. GitHub issues may be used for discussion or
+short-term assignments, but they do not replace this record.
 
-### Part V
-- `MC-501` The Future
+## 3. Identifier Standard
 
-## 4. Chapter Specifications
+### 3.1 Format
 
-### `MC-C301` — Election Integrity
+`TYPE-P#-C### - Title or description`
 
-- **Current status:** _TBD_
-- **Status checklist:**
-- [ ] NEW
-- [ ] OUTLINED
-- [ ] RESEARCHING
-- [ ] DRAFTING
-- [ ] TECH REVIEW
-- [ ] LEGAL REVIEW
-- [ ] CITATIONS COMPLETE
-- [ ] READY FOR PUBLICATION
-- [ ] PUBLISHED
+| Segment | Meaning | Examples |
+| --- | --- | --- |
+| `TYPE` | Kind of project material | `MC`, `RP`, `PR`, `R`, `PJ` |
+| `P#` | Book part primarily supported; `P0` is project-wide/front matter | `P0`–`P5` |
+| `C###` | Parent document or work item within a hundred block | `C100`, `C101` |
 
-## 5. Requirements
+### 3.2 Type Codes
 
-### `EI-001` — States administer elections.
+| Code | Material | Repository location |
+| --- | --- | --- |
+| `MC` | Manifesto chapter or front matter | `Manifesto Chapters/` or project root |
+| `RP` | Research paper | `Research Papers/` |
+| `PR` | Proposal, model, amendment, or transition plan | `Proposals/` |
+| `R` | Reference or primary-source record | `references/` |
+| `PJ` | Project-wide editorial, publishing, or repository work | `docs/` or root |
 
-- **Current status:** _TBD_
-- **Status checklist:**
-- [ ] NEW
-- [ ] OUTLINED
-- [ ] RESEARCHING
-- [ ] DRAFTING
-- [ ] TECH REVIEW
-- [ ] LEGAL REVIEW
-- [ ] CITATIONS COMPLETE
-- [ ] READY FOR PUBLICATION
-- [ ] PUBLISHED
+### 3.3 Hundred Blocks
 
-### `EI-002` — Proof of Citizenship
+The base hundred is the parent document. Its following 99 identifiers are
+reserved for sections, questions, or work belonging to it.
 
-- **Current status:** _TBD_
-- **Status checklist:**
-- [ ] NEW
-- [ ] OUTLINED
-- [ ] RESEARCHING
-- [ ] DRAFTING
-- [ ] TECH REVIEW
-- [ ] LEGAL REVIEW
-- [ ] CITATIONS COMPLETE
-- [ ] READY FOR PUBLICATION
-- [ ] PUBLISHED
+- `MC-P1-C100` — Part 1, Chapter 1
+- `MC-P1-C101` through `MC-P1-C199` — work belonging to Chapter 1
+- `MC-P1-C200` — Part 1, Chapter 2
+- `MC-P1-C201` through `MC-P1-C299` — work belonging to Chapter 2
 
-## 6. Research Papers
+Use the same rule independently in every type and part. Do not infer a formal
+relationship merely because two items share a number; record relationships in
+`Supports`, `Depends on`, or `Related` fields.
 
-### `RP-101` — Property Clause
+### 3.4 Statuses
 
-- **Supports:** `MC-204`, `MC-301`, `PR-201`
-- **Current status:** _TBD_
-- **Status checklist:**
-- [ ] NEW
-- [ ] OUTLINED
-- [ ] RESEARCHING
-- [ ] DRAFTING
-- [ ] TECH REVIEW
-- [ ] LEGAL REVIEW
-- [ ] CITATIONS COMPLETE
-- [ ] READY FOR PUBLICATION
-- [ ] PUBLISHED
+Use exactly one status per parent item:
 
-## 7. Proposals
+`PLANNED` → `OUTLINED` → `RESEARCHING` → `DRAFTING` → `REVIEW` →
+`CITATIONS COMPLETE` → `READY` → `PUBLISHED`
 
-### `PR-101` — Election Constitutional Amendment
+Use `BLOCKED`, `SUPERSEDED`, or `CANCELLED` only when needed. A checked work item
+means that task is complete; it does not by itself mean the parent is publication
+ready.
 
-- **Supports:** `MC-301`
-- **Requirements:** `EI-001`, `EI-002`, `EI-005`
-- **Current status:** _TBD_
-- **Status checklist:**
-- [ ] NEW
-- [ ] OUTLINED
-- [ ] RESEARCHING
-- [ ] DRAFTING
-- [ ] TECH REVIEW
-- [ ] LEGAL REVIEW
-- [ ] CITATIONS COMPLETE
-- [ ] READY FOR PUBLICATION
-- [ ] PUBLISHED
+## 4. Required Working-Document Header
 
-## 8. References
+Place this block at the top of each new manuscript chapter, research paper, or
+proposal. Word documents may use the same labels as a small opening table.
 
-### `REF-001` — US Constitution
+```text
+ID: MC-P1-C100
+Title: Why Liberty Requires Government
+Status: OUTLINED
+Supports: —
+Depends on: RP-P1-C100; R-P1-C100
+Open work: MC-P1-C101; MC-P1-C102
+Last reviewed: YYYY-MM-DD
+```
 
-- **Supports:** `MC-101`, `MC-102`, `MC-201`, `MC-301`
-- **Current status:** _TBD_
-- **Status checklist:**
-- [ ] NEW
-- [ ] OUTLINED
-- [ ] RESEARCHING
-- [ ] DRAFTING
-- [ ] TECH REVIEW
-- [ ] LEGAL REVIEW
-- [ ] CITATIONS COMPLETE
-- [ ] READY FOR PUBLICATION
-- [ ] PUBLISHED
+`Open work` may become temporarily stale. The detailed entries in this file are
+the authoritative backlog.
 
-## 9. Outstanding Work
+## 5. Definition of Ready
 
-### `PL-001` — Finish Chapter Outline
+A chapter is `READY` only after the applicable work is complete:
 
-- **Owner:** Dave
-- **Status:** Open
+- [ ] Purpose and central claim are clear.
+- [ ] Constitutional framework and present law are accurate.
+- [ ] Historical context is sufficient and relevant.
+- [ ] Facts, analysis, opinion, and recommendations are distinguishable.
+- [ ] Major counterarguments and risks are addressed fairly.
+- [ ] Proposed reforms include authority, implementation, and transition needs.
+- [ ] Factual and legal claims have traceable citations.
+- [ ] Related research papers, references, and proposals are linked both ways.
+- [ ] Legal/constitutional review is complete when applicable.
+- [ ] Technical/factual and editorial reviews are complete.
 
-## 10. Future Ideas
+## 6. Manuscript Organizational Chart and Backlog
 
-- `IDEA-001` Election observer certification.
-- `IDEA-002` County audit requirements.
+The ordering below is the current canonical book structure. Titles may change;
+identifiers remain stable.
+
+### Part 0 — Front Matter
+
+#### MC-P0-C100 - Purpose Statement
+
+- **Status:** DRAFTING
+- **File:** `00_Purpose_Statement.docx`
+- [x] MC-P0-C101 - State the book's governing purpose and core themes.
+- [ ] MC-P0-C102 - Review against the completed manuscript.
+
+#### MC-P0-C200 - Preface
+
+- **Status:** PLANNED
+- [ ] MC-P0-C201 - Explain why the author undertook the project.
+
+#### MC-P0-C300 - How to Read This Book
+
+- **Status:** PLANNED
+- [ ] MC-P0-C301 - Explain the separation of law, analysis, opinion, and proposals.
+- [ ] MC-P0-C302 - Explain links among chapters, research, references, and proposals.
+
+#### MC-P0-C400 - Definitions and Glossary
+
+- **Status:** PLANNED
+- [ ] MC-P0-C401 - Establish definitions for recurring constitutional and policy terms.
+
+#### MC-P0-C500 - Constitutional Methodology
+
+- **Status:** PLANNED
+- [ ] MC-P0-C501 - Explain original public meaning and interpretive limits.
+- [ ] MC-P0-C502 - Explain enumerated powers, federalism, and reserved powers.
+
+#### MC-P0-C600 - Bibliography
+
+- **Status:** PLANNED
+- [ ] MC-P0-C601 - Select and document the project citation style.
+- [ ] MC-P0-C602 - Create the consolidated bibliography.
+
+### Part 1 — Foundations
+
+#### MC-P1-C100 - Why Liberty Requires Government
+
+- **Status:** DRAFTING
+- [x] MC-P1-C101 - Establish the core practical-libertarian philosophy.
+- [x] MC-P1-C102 - Explain the legitimate role of government.
+- [ ] MC-P1-C103 - Research Locke, Jefferson, and Madison.
+- [ ] MC-P1-C104 - Develop civic virtue and personal responsibility.
+- [ ] MC-P1-C105 - Address the distinction between practical libertarianism and anarchy.
+
+#### MC-P1-C200 - Constitutional Originalism
+
+- **Status:** DRAFTING
+- [x] MC-P1-C201 - Establish the originalism framework.
+- [x] MC-P1-C202 - Address enumerated powers.
+- [ ] MC-P1-C203 - Add separation-of-powers analysis.
+- [ ] MC-P1-C204 - Address principal objections to originalism.
+
+#### MC-P1-C300 - Federalism
+
+- **Status:** DRAFTING
+- [x] MC-P1-C301 - Establish the lowest-practical-level principle.
+- [ ] MC-P1-C302 - Add relevant federalism case law.
+- [ ] MC-P1-C303 - Address state constitutions and local government.
+
+#### MC-P1-C400 - Rights and Responsibilities
+
+- **Status:** DRAFTING
+- [x] MC-P1-C401 - Establish rights-and-responsibilities framework.
+- [ ] MC-P1-C402 - Develop natural-rights analysis.
+- [ ] MC-P1-C403 - Explain due process and equal protection.
+
+#### MC-P1-C500 - Property Rights
+
+- **Status:** DRAFTING
+- [x] MC-P1-C501 - Address private property.
+- [x] MC-P1-C502 - Address self-ownership.
+- [ ] MC-P1-C503 - Address contracts.
+- [ ] MC-P1-C504 - Address eminent domain.
+
+### Part 2 — Domestic Government
+
+#### MC-P2-C100 - Policing and Search Warrants
+
+- **Status:** DRAFTING
+- [x] MC-P2-C101 - Address policing principles.
+- [x] MC-P2-C102 - Address warrants.
+- [ ] MC-P2-C103 - Address qualified immunity.
+- [ ] MC-P2-C104 - Add constitutional and case-law support.
+
+#### MC-P2-C200 - Criminal Justice and Sentencing
+
+- **Status:** PLANNED
+- [ ] MC-P2-C201 - Define the criminal-justice scope.
+- [ ] MC-P2-C202 - Address sentencing reform.
+- [ ] MC-P2-C203 - Address civil liability and tort reform.
+
+#### MC-P2-C300 - Immigration and Borders
+
+- **Status:** DRAFTING
+- [x] MC-P2-C301 - Address border security.
+- [x] MC-P2-C302 - Address legal immigration and due process.
+- [ ] MC-P2-C303 - Address asylum.
+- [ ] MC-P2-C304 - Address visa reform.
+
+#### MC-P2-C400 - Education
+
+- **Status:** DRAFTING
+- [x] MC-P2-C401 - Address school choice and local control.
+- [x] MC-P2-C402 - Address viewpoint-neutral classrooms.
+- [ ] MC-P2-C403 - Address higher education.
+
+#### MC-P2-C500 - Executive Agencies and the Administrative State
+
+- **Status:** PLANNED
+- [ ] MC-P2-C501 - Define permissible executive authority.
+- [ ] MC-P2-C502 - Analyze the administrative state.
+- [ ] MC-P2-C503 - Address executive orders and emergency powers.
+
+#### MC-P2-C600 - The Judiciary
+
+- **Status:** PLANNED
+- [ ] MC-P2-C601 - Define the chapter scope and constitutional questions.
+
+#### MC-P2-C700 - Taxation and the Budget Process
+
+- **Status:** PLANNED
+- [ ] MC-P2-C701 - Address income, property, and consumption taxes.
+- [ ] MC-P2-C702 - Address the federal budget process.
+
+#### MC-P2-C800 - Health and Welfare
+
+- **Status:** PLANNED
+- [ ] MC-P2-C801 - Address healthcare.
+- [ ] MC-P2-C802 - Address welfare, disability, and poverty.
+
+#### MC-P2-C900 - Commerce, Infrastructure, and Environmental Policy
+
+- **Status:** PLANNED
+- [ ] MC-P2-C901 - Define the constitutional scope of commerce policy.
+- [ ] MC-P2-C902 - Address infrastructure.
+- [ ] MC-P2-C903 - Address environmental policy.
+
+### Part 3 — Constitutional Reform
+
+#### MC-P3-C100 - Federal Lands
+
+- **Status:** DRAFTING
+- **Depends on:** RP-P3-C100; PR-P3-C100
+- [x] MC-P3-C101 - Develop Property Clause analysis.
+- [x] MC-P3-C102 - Address BLM land and national parks.
+- [ ] MC-P3-C103 - Address water rights.
+- [ ] MC-P3-C104 - Address tribal issues.
+- [ ] MC-P3-C105 - Complete citations and counterarguments.
+
+#### MC-P3-C200 - National Defense and a Distributed Military
+
+- **Status:** DRAFTING
+- **Depends on:** PR-P3-C200
+- [x] MC-P3-C201 - Develop the distributed-defense concept.
+- [ ] MC-P3-C202 - Address militia structure.
+- [ ] MC-P3-C203 - Address the National Guard.
+- [ ] MC-P3-C204 - Address foreign-policy implications.
+
+#### MC-P3-C300 - Voting Rights and Election Integrity
+
+- **Status:** DRAFTING
+- **Depends on:** RP-P3-C300; PR-P3-C300
+- [x] MC-P3-C301 - Address voting rights and state administration.
+- [x] MC-P3-C302 - Address proof of citizenship and voter identification.
+- [x] MC-P3-C303 - Address mail voting, audits, and roll maintenance.
+- [x] MC-P3-C304 - Address election crimes.
+- [ ] MC-P3-C305 - Analyze the VRA, NVRA, HAVA, and SAVE Act.
+- [ ] MC-P3-C306 - Analyze controlling Supreme Court cases.
+- [ ] MC-P3-C307 - Address campaign finance.
+- [ ] MC-P3-C308 - Address redistricting.
+
+#### MC-P3-C400 - Electoral College Reform
+
+- **Status:** DRAFTING
+- **Depends on:** RP-P3-C400; PR-P3-C400
+- [x] MC-P3-C401 - Develop proportional electoral-weight concept.
+- [x] MC-P3-C402 - Develop ranked-choice integration concept.
+- [ ] MC-P3-C403 - Research the House contingency process.
+- [ ] MC-P3-C404 - Complete mathematical examples.
+
+#### MC-P3-C500 - Congressional Reform
+
+- **Status:** PLANNED
+- [ ] MC-P3-C501 - Define representation and institutional reforms.
+- [ ] MC-P3-C502 - Evaluate term limits.
+
+#### MC-P3-C600 - Budget and Fiscal Reform
+
+- **Status:** PLANNED
+- [ ] MC-P3-C601 - Evaluate balanced-budget mechanisms.
+- [ ] MC-P3-C602 - Define transition and enforcement requirements.
+
+### Part 4 — Economic Policy
+
+#### MC-P4-C100 - Sound Money
+
+- **Status:** DRAFTING
+- **Depends on:** RP-P4-C100
+- [x] MC-P4-C101 - Establish the sound-money foundation.
+- [ ] MC-P4-C102 - Add historical and empirical support.
+
+#### MC-P4-C200 - Banking, Inflation, and the Federal Reserve
+
+- **Status:** PLANNED
+- [ ] MC-P4-C201 - Address banking institutions.
+- [ ] MC-P4-C202 - Address inflation.
+- [ ] MC-P4-C203 - Address the Federal Reserve.
+
+#### MC-P4-C300 - Debt and Social Security
+
+- **Status:** PLANNED
+- [ ] MC-P4-C301 - Address public debt.
+- [ ] MC-P4-C302 - Develop Social Security reform options.
+
+#### MC-P4-C400 - Property Tax
+
+- **Status:** PLANNED
+- [ ] MC-P4-C401 - Define the constitutional and policy analysis.
+
+#### MC-P4-C500 - Free Markets and Trade
+
+- **Status:** PLANNED
+- [ ] MC-P4-C501 - Establish the free-market framework.
+- [ ] MC-P4-C502 - Address domestic and international trade.
+
+### Part 5 — Technology and Future Policy
+
+#### MC-P5-C100 - Artificial Intelligence
+
+- **Status:** PLANNED
+- [ ] MC-P5-C101 - Define liberty, accountability, and governance questions.
+
+#### MC-P5-C200 - Privacy
+
+- **Status:** PLANNED
+- [ ] MC-P5-C201 - Define privacy rights and governmental limits.
+
+#### MC-P5-C300 - Cybersecurity
+
+- **Status:** PLANNED
+- [ ] MC-P5-C301 - Define public and private responsibilities.
+
+#### MC-P5-C400 - Energy
+
+- **Status:** PLANNED
+- [ ] MC-P5-C401 - Define the constitutional and market framework.
+
+#### MC-P5-C500 - Infrastructure and Data Centers
+
+- **Status:** PLANNED
+- [ ] MC-P5-C501 - Address infrastructure responsibilities.
+- [ ] MC-P5-C502 - Address data-center energy, land, and water demands.
+
+## 7. Research Paper Register and Backlog
+
+#### RP-P1-C100 - Foundations: Philosophical and Founding Sources
+
+- **Status:** PLANNED
+- **Supports:** MC-P1-C100; MC-P1-C200; MC-P1-C300
+- [ ] RP-P1-C101 - Research Locke, Jefferson, Madison, the Federalists, and Anti-Federalists.
+
+#### RP-P1-C200 - Federalism Case Law
+
+- **Status:** PLANNED
+- **Supports:** MC-P1-C300
+- [ ] RP-P1-C201 - Identify and analyze controlling federalism decisions.
+
+#### RP-P3-C100 - Property Clause and Federal Lands
+
+- **Status:** PLANNED
+- **Supports:** MC-P3-C100; PR-P3-C100
+- [ ] RP-P3-C101 - Complete constitutional text and founding-era research.
+- [ ] RP-P3-C102 - Complete Supreme Court and statutory research.
+
+#### RP-P3-C300 - Election Integrity Legal Survey
+
+- **Status:** PLANNED
+- **Supports:** MC-P3-C300; PR-P3-C300
+- [ ] RP-P3-C301 - Analyze the VRA, NVRA, HAVA, and SAVE Act.
+- [ ] RP-P3-C302 - Analyze Shelby County, Brnovich, Crawford, and related cases.
+
+#### RP-P3-C400 - Electoral College Mathematical Model
+
+- **Status:** PLANNED
+- **Supports:** MC-P3-C400; PR-P3-C400
+- [ ] RP-P3-C401 - Model proportional allocation and ranked-choice scenarios.
+- [ ] RP-P3-C402 - Test edge cases and the House contingency process.
+
+#### RP-P4-C100 - Sound Money Historical Analysis
+
+- **Status:** PLANNED
+- **Supports:** MC-P4-C100
+- [ ] RP-P4-C101 - Assemble historical, monetary, and empirical evidence.
+
+#### RP-P2-C500 - Administrative State Analysis
+
+- **Status:** PLANNED
+- **Supports:** MC-P2-C500
+- [ ] RP-P2-C501 - Analyze delegation, executive authority, and judicial doctrine.
+
+## 8. Proposal Register and Backlog
+
+#### PR-P3-C100 - Federal Lands Constitutional Amendment
+
+- **Status:** DRAFTING
+- **Supports:** MC-P3-C100
+- [ ] PR-P3-C101 - Draft operative amendment text.
+- [ ] PR-P3-C102 - Add transition, implementation, and fiscal analysis.
+
+#### PR-P3-C200 - Distributed Defense Constitutional Amendment
+
+- **Status:** DRAFTING
+- **Supports:** MC-P3-C200
+- [ ] PR-P3-C201 - Draft operative amendment text.
+- [ ] PR-P3-C202 - Add militia, National Guard, command, and transition analysis.
+
+#### PR-P3-C300 - Election Reform Constitutional Amendment
+
+- **Status:** DRAFTING
+- **Supports:** MC-P3-C300
+- [ ] PR-P3-C301 - Draft operative amendment text.
+- [ ] PR-P3-C302 - Identify federal, state, and local authority.
+
+#### PR-P3-C400 - Electoral Allocation and Ranked-Choice Implementation
+
+- **Status:** DRAFTING
+- **Supports:** MC-P3-C400
+- [ ] PR-P3-C401 - Draft the constitutional mechanism.
+- [ ] PR-P3-C402 - Draft federal implementation legislation.
+- [ ] PR-P3-C403 - Draft model state legislation.
+
+#### PR-P3-C500 - Election Implementation Roadmap
+
+- **Status:** PLANNED
+- **Supports:** MC-P3-C300; MC-P3-C400
+- [ ] PR-P3-C501 - Define sequencing, timelines, administration, and audits.
+
+#### PR-P3-C600 - Balanced-Budget Amendment
+
+- **Status:** PLANNED
+- **Supports:** MC-P3-C600
+- [ ] PR-P3-C601 - Define scope, exceptions, enforcement, and transition.
+
+#### PR-P2-C900 - Commerce Reform Proposal
+
+- **Status:** PLANNED
+- **Supports:** MC-P2-C900
+- [ ] PR-P2-C901 - Determine whether statutory or constitutional action is required.
+
+#### PR-P2-C700 - Tax Reform Proposal
+
+- **Status:** PLANNED
+- **Supports:** MC-P2-C700
+- [ ] PR-P2-C701 - Define federal, state, and local implementation options.
+
+## 9. Reference Register and Backlog
+
+Reference identifiers describe sources cataloged or stored in `references/`.
+Copyrighted works may be represented by bibliographic records rather than copied
+into the repository.
+
+#### R-P0-C100 - United States Constitution
+
+- **Status:** PLANNED
+- **Supports:** All constitutional chapters and proposals
+- [ ] R-P0-C101 - Add canonical text or an authoritative link and citation metadata.
+
+#### R-P0-C200 - Federal Statutes
+
+- **Status:** PLANNED
+- [ ] R-P0-C201 - Establish a consistent statute-record template.
+
+#### R-P0-C300 - Supreme Court Decisions
+
+- **Status:** PLANNED
+- [ ] R-P0-C301 - Establish a case record with citation, holding, and supported items.
+
+#### R-P0-C400 - Founding and Historical Papers
+
+- **Status:** PLANNED
+- [ ] R-P0-C401 - Catalog the Federalist Papers, Anti-Federalists, and founding debates.
+
+#### R-P0-C500 - Government Reports and Data
+
+- **Status:** PLANNED
+- [ ] R-P0-C501 - Catalog CBO, CRS, agency, and other authoritative materials.
+
+#### R-P0-C600 - Books and Secondary Sources
+
+- **Status:** PLANNED
+- [ ] R-P0-C601 - Create bibliographic records and usage notes.
+
+## 10. Project-Wide Backlog
+
+#### PJ-P0-C100 - Content Intake and Inventory
+
+- **Status:** DRAFTING
+- [ ] PJ-P0-C101 - Inventory each new or recovered document in this specification.
+- [ ] PJ-P0-C102 - Classify material as manuscript, research, proposal, reference, or project record.
+- [ ] PJ-P0-C103 - Reconcile prior ChatGPT conversations and drafts with the canonical outline.
+
+#### PJ-P0-C200 - Citation System
+
+- **Status:** PLANNED
+- [ ] PJ-P0-C201 - Choose a citation style.
+- [ ] PJ-P0-C202 - Define footnote, bibliography, URL, access-date, and archival rules.
+- [ ] PJ-P0-C203 - Create citation and bibliography templates.
+
+#### PJ-P0-C300 - Traceability Review
+
+- **Status:** PLANNED
+- [ ] PJ-P0-C301 - Link every manuscript chapter to supporting research and proposals.
+- [ ] PJ-P0-C302 - Link every research paper, proposal, and reference back to supported chapters.
+- [ ] PJ-P0-C303 - Audit working-document headers against this file.
+
+#### PJ-P0-C400 - Editorial and Legal Review
+
+- **Status:** PLANNED
+- [ ] PJ-P0-C401 - Review completed drafts for counterarguments.
+- [ ] PJ-P0-C402 - Complete constitutional/legal review.
+- [ ] PJ-P0-C403 - Complete factual/technical review.
+- [ ] PJ-P0-C404 - Complete editorial consistency review.
+
+#### PJ-P0-C500 - Publishing
+
+- **Status:** PLANNED
+- [ ] PJ-P0-C501 - Define manuscript assembly and export process.
+- [ ] PJ-P0-C502 - Create index and final bibliography.
+- [ ] PJ-P0-C503 - Define release, edition, and versioning conventions.
+
+## 11. Template for a New Parent Item
+
+Copy this block into the appropriate register and assign the next open hundred:
+
+```markdown
+#### MC-P#-C### - Title
+
+- **Status:** PLANNED
+- **File:** `path/to/file` (when created)
+- **Supports:** IDs or `—`
+- **Depends on:** IDs or `—`
+- [ ] MC-P#-C##1 - First identifiable work item.
+- [ ] MC-P#-C##2 - Second identifiable work item.
+```
+
+Before adding an item, search this file for its intended identifier and subject.
+Append new work within the parent's reserved block; do not renumber existing IDs.
