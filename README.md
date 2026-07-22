@@ -40,10 +40,11 @@ Do not create a separate project checklist. Add chapters and work to
 2. Outline
 3. Draft
 4. Constitutional review
-5. Technical/fact review
-6. Citation completion
-7. Editorial review
-8. Publish
+5. Hostile review
+6. Technical/fact review
+7. Citation review
+8. Editorial review
+9. Publish
 
 ## Publishing to GitHub
 
