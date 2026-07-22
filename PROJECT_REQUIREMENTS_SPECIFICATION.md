@@ -114,6 +114,7 @@ A chapter is `READY` only after the applicable work is complete:
 - [ ] Related research papers, references, and proposals are linked both ways.
 - [ ] Legal/constitutional review is complete when applicable.
 - [ ] Technical/factual and editorial reviews are complete.
+- [ ] Hostile Review Process is complete.
 
 ## 6. Manuscript Organizational Chart and Backlog
 
@@ -122,40 +123,126 @@ identifiers remain stable.
 
 ### Part 0 — Front Matter
 
-#### MC-P0-C100 - Purpose Statement
+#### MC-P0-C000 - Governing Documents
 
+##### MC-P0-C001 - Project Charter
 - **Status:** DRAFTING
 - **File:** `PROJECT_CHARTER.md`
-- [x] MC-P0-C101 - State the book's governing purpose and core themes.
-- [ ] MC-P0-C102 - Review against the completed manuscript.
+- [x] MC-P0-C001 - State the book's governing purpose and core themes.
+- [ ] MC-P0-C002 - Review against the completed manuscript.
 
-#### MC-P0-C200 - Preface
+##### MC-P0-C002 - Project Requirements Specification
+- **Status:** DRAFTING
+- **File:** `PROJECT_REQUIREMENTS_SPECIFICATION.md`
+- [x] MC-P0-C003 - Define the project scope, audience, and publication goals.
+- [ ] MC-P0-C004 - Review against the completed manuscript.
+
+##### MC-P0-C003 - Agents
+- **Status:** DRAFTING
+- **File:** `AGENTS.md`
+- [x] MC-P0-C005 - Define the roles and responsibilities of project agents.
+- [ ] MC-P0-C006 - Review against the completed manuscript.
+
+##### MC-P0-C004 - Change Log
+- **Status:** DRAFTING
+- **File:** `CHANGELOG.md`
+- [x] MC-P0-C007 - Document changes and updates to the project.
+- [ ] MC-P0-C008 - Review against the completed manuscript.
+
+##### MC-P0-C005 - Hostile Review Process
+- **Status:** DRAFTING
+- **File:** `HOSTILE_REVIEW.md`
+- [x] MC-P0-C009 - Define the hostile review process.
+- [ ] MC-P0-C010 - Review against the completed manuscript.
+
+##### MC-P0-C006 - Readme
+- **Status:** DRAFTING
+- **File:** `README.md`
+- [x] MC-P0-C006 - Describes the project scope, audience, and publication goals.
+- [ ] MC-P0-C007 - Review against the completed manuscript.
+
+##### MC-P0-C007 - Style Guide
+- **Status:** DRAFTING
+- **File:** `STYLE_GUIDE.md`
+- [x] MC-P0-C007 - Describes the project Style Guide.
+- [ ] MC-P0-C008 - Review against the completed manuscript.
+
+#### MC-P0-C100 - Title Page
 
 - **Status:** PLANNED
-- [ ] MC-P0-C201 - Explain why the author undertook the project.
+- **File:** `Title_Page.md`
+- [ ] MC-P0-C101 - Formal identification of the work.
 
-#### MC-P0-C300 - How to Read This Book
-
-- **Status:** PLANNED
-- [ ] MC-P0-C301 - Explain the separation of law, analysis, opinion, and proposals.
-- [ ] MC-P0-C302 - Explain links among chapters, research, references, and proposals.
-
-#### MC-P0-C400 - Definitions and Glossary
+#### MC-P0-C200 - Copyright
 
 - **Status:** PLANNED
-- [ ] MC-P0-C401 - Establish definitions for recurring constitutional and policy terms.
+- **File:** `Copyright.md`
+- [ ] MC-P0-C201 - Self Explanatory.
 
-#### MC-P0-C500 - Constitutional Methodology
-
-- **Status:** PLANNED
-- [ ] MC-P0-C501 - Explain original public meaning and interpretive limits.
-- [ ] MC-P0-C502 - Explain enumerated powers, federalism, and reserved powers.
-
-#### MC-P0-C600 - Bibliography
+#### MC-P0-C300 - Table of Contents
 
 - **Status:** PLANNED
-- [ ] MC-P0-C601 - Select and document the project citation style.
-- [ ] MC-P0-C602 - Create the consolidated bibliography.
+- **File:** `Table_of_Contents.md`
+- [ ] MC-P0-C301 - The book's complete listing of sections, chapters, and materials.
+
+#### MC-P0-C400 - Forward
+
+- **Status:** PLANNED
+- **File:** `Forward.md`
+- [ ] MC-P0-C401 - Introduction by [someone].
+
+#### MC-P0-C500 - Preface
+
+- **Status:** PLANNED
+- **File:** `Preface.md`
+- [ ] MC-P0-C501 - My personal reason for writing this book.
+
+#### MC-P0-C600 - Purpose and Method
+
+- **Status:** PLANNED
+- **File:** `Purpose_and_Method.md`
+- [ ] MC-P0-C601 - Explain the book's purpose.
+- [ ] MC-P0-C602 - Explain why another libertarian book is needed.
+- [ ] MC-P0-C603 - Explain the intended audience.
+- [ ] MC-P0-C604 - Explain how arguments are developed.
+
+#### MC-P0-C700 - How to Read This Book
+
+- **Status:** PLANNED
+- **File:** `How_to_Read_This_Book.md`
+- [ ] MC-P0-C701 - Give the reader tips for how to understand the book.
+
+#### MC-P0-C800 - What This Book Is Not
+
+- **Status:** PLANNED
+- **File:** `What_This_Book_Is_Not.md`
+- [ ] MC-P0-C801 - Clarify misconceptions and limitations of the book.
+
+#### MC-P0-C900 - Definitions
+
+- **Status:** PLANNED
+- **File:** `Definitions.md`
+- [ ] MC-P0-C901 - Define key terms and concepts used in the book.
+
+#### MC-P0-C1000 - Methodology
+
+- **Status:** PLANNED
+- **File:** `Methodology.md`
+- [ ] MC-P0-C1001 - Explain original public meaning and interpretive limits.
+- [ ] MC-P0-C1002 - Explain enumerated powers.
+- [ ] MC-P0-C1003 - Explain federalism and reserved powers.
+- [ ] MC-P0-C1004 - Explain burden of proof.
+- [ ] MC-P0-C1005 - Explain constitutional hierarchy.
+- [ ] MC-P0-C1006 - Explain evidence hierarchy.
+- [ ] MC-P0-C1007 - Distinguishing opinion from recommendation.
+- [ ] MC-P0-C1008 - Explain what constitutes a constitutional amendment vs legislation.
+
+#### MC-P0-C1100 - Bibliography
+
+- **Status:** PLANNED
+- **File:** `Bibliography.md`
+- [ ] MC-P0-C1101 - Select and document the project citation style.
+- [ ] MC-P0-C1102 - Create the consolidated bibliography.
 
 ### Part 1 — Foundations
 

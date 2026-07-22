@@ -1,28 +1,38 @@
-PROJECT_CHARTER.md
+# Practical Libertarian Framework
 
-Practical Libertarian Framework
+## Project Charter
 
-Project Charter
+| | |
+| --- | --- |
+| **Version** | 1.0 |
+| **Status** | Authoritative |
 
-Version: 1.0
+## Mission Statement
 
-Status: Authoritative
+The Practical Libertarian Framework is a constitutional systems-analysis
+project.
 
-⸻
-
-Mission Statement
-
-The Practical Libertarian Framework is a constitutional systems-analysis project.
-
-Its purpose is to examine the institutions, laws, and governing structures of the United States as they exist today, identify where those systems succeed or fail, determine the causes of those outcomes, and propose practical constitutional reforms that better preserve liberty, accountability, federalism, and individual responsibility.
+Its purpose is to examine the institutions, laws, and governing structures of
+the United States as they exist today, identify where those systems succeed or
+fail, determine the causes of those outcomes, and propose practical
+constitutional reforms that better preserve liberty, accountability, federalism,
+and individual responsibility.
 
 The objective is not to defend an ideology.
 
-The objective is to discover what is true, understand why existing systems behave as they do, and recommend improvements supported by evidence, constitutional principles, and practical implementation.
+The objective is to discover what is true, understand why existing systems
+behave as they do, and recommend improvements supported by evidence,
+constitutional principles, and practical implementation.
 
-⸻
+This project acknowledges that constitutions, statutes, regulations, 
+judicial precedent, administrative practice, historical research, economic evidence, 
+and technology continue to evolve.
 
-Purpose
+The repository is therefore designed to support ongoing revision while preserving the 
+complete historical record of previous analyses, supporting evidence, and the 
+reasoning behind prior conclusions.
+
+## Purpose
 
 This project exists to answer four questions:
 
@@ -31,238 +41,220 @@ This project exists to answer four questions:
 3. Why does it fail?
 4. How can it be improved without abandoning constitutional government?
 
-Every chapter, research paper, proposal, and supporting document should contribute toward answering one or more of these questions.
+Every chapter, research paper, proposal, and supporting document should
+contribute toward answering one or more of these questions.
 
-⸻
-
-Scope
+## Scope
 
 The project examines:
 
-* Constitutional government
-* Federalism
-* Separation of powers
-* Individual liberty
-* Civil rights
-* Criminal justice
-* Immigration
-* National defense
-* Elections
-* Education
-* Property rights
-* Taxation
-* Monetary policy
-* Administrative law
-* Economic incentives
-* Government accountability
-* Public administration
-* Historical constitutional development
+- Constitutional government
+- Federalism
+- Separation of powers
+- Individual liberty
+- Civil rights
+- Criminal justice
+- Immigration
+- National defense
+- Elections
+- Education
+- Property rights
+- Taxation
+- Monetary policy
+- Administrative law
+- Economic incentives
+- Government accountability
+- Public administration
+- Historical constitutional development
 
-Topics outside these areas should only be included when they directly support the mission of the project.
+Topics outside these areas should only be included when they directly support
+the mission of the project.
 
-⸻
-
-Guiding Principles
+## Guiding Principles
 
 This project is founded upon the following principles:
 
-* Constitutional government
-* Original public meaning as the primary interpretive framework
-* Federalism
-* Distributed authority
-* Separation of powers
-* Individual liberty
-* Equal protection
-* Due process
-* Personal responsibility
-* Government accountability
-* Transparency
-* Practical implementation
-* Incremental reform where appropriate
+- Constitutional government
+- Original public meaning as the primary interpretive framework
+- Federalism
+- Distributed authority
+- Separation of powers
+- Individual liberty
+- Equal protection
+- Due process
+- Personal responsibility
+- Government accountability
+- Transparency
+- Practical implementation
+- Incremental reform where appropriate
 
-Government is viewed as a necessary institution whose legitimate purpose is the protection of rights and the preservation of constitutional order—not the management of society for its own sake.
+Government is viewed as a necessary institution whose legitimate purpose is the
+protection of rights and the preservation of constitutional order—not the
+management of society for its own sake.
 
-⸻
-
-Project Methodology
+## Project Methodology
 
 Every topic shall be developed using the same analytical process.
 
-Phase 1 — Reality
+### Phase 1 — Reality
 
 Describe the current system accurately.
 
 Document:
 
-* existing law
-* existing institutions
-* historical development
-* constitutional authority
-* judicial interpretation
-* measurable outcomes
+- Existing law
+- Existing institutions
+- Historical development
+- Constitutional authority
+- Judicial interpretation
+- Measurable outcomes
 
 No proposals belong in this phase.
 
-⸻
-
-Phase 2 — Analysis
+### Phase 2 — Analysis
 
 Determine why the system behaves as it does.
 
 Analyze:
 
-* incentives
-* authority
-* economics
-* unintended consequences
-* constitutional conflicts
-* strengths
-* weaknesses
+- Incentives
+- Authority
+- Economics
+- Unintended consequences
+- Constitutional conflicts
+- Strengths
+- Weaknesses
 
 Alternative explanations should be considered and evaluated fairly.
 
-⸻
-
-Phase 3 — Proposal
+### Phase 3 — Proposal
 
 Only after Reality and Analysis have been completed may reforms be proposed.
 
 Each proposal shall include:
 
-* Problem Statement
-* Constitutional Authority
-* Expected Benefits
-* Possible Risks
-* Tradeoffs
-* Implementation Strategy
+- Problem Statement
+- Constitutional Authority
+- Expected Benefits
+- Possible Risks
+- Tradeoffs
+- Implementation Strategy
 
-⸻
-
-Systems Engineering Philosophy
+## Systems Engineering Philosophy
 
 This project approaches government as a complex system.
 
-Every system is assumed to produce the results for which its incentives are designed.
+Every system is assumed to produce the results for which its incentives are
+designed.
 
 Rather than asking:
 
-“Who is at fault?”
+> **“Who is at fault?”**
 
-the project first asks:
+The project first asks:
 
-“What incentives produced this outcome?”
+> **“What incentives produced this outcome?”**
 
-Solutions should focus on improving systems, reducing structural failures, and aligning incentives with constitutional principles rather than relying solely on better individuals or better intentions.
+Solutions should focus on improving systems, reducing structural failures, and
+aligning incentives with constitutional principles rather than relying solely on
+better individuals or better intentions.
 
-⸻
-
-Intended Audience
+## Intended Audience
 
 This work is intended for:
 
-* General readers
-* Students
-* Constitutional scholars
-* Policymakers
-* Legislators
-* Judges
-* Researchers
-* Journalists
-* Civic organizations
+- General readers
+- Students
+- Constitutional scholars
+- Policymakers
+- Legislators
+- Judges
+- Researchers
+- Journalists
+- Civic organizations
 
 The writing should remain accessible without sacrificing precision.
 
-⸻
+## Repository Organization
 
-Repository Organization
-
-The repository is organized into the following major components.
-
-/Manifesto Chapters
+### `Manifesto Chapters/`
 
 The public manuscript.
 
 Each chapter has a permanent identifier.
 
-⸻
-
-/Research Papers
+### `Research Papers/`
 
 Supporting research.
 
-Contains detailed evidence, historical analysis, legal research, economic studies, and source summaries.
+Contains detailed evidence, historical analysis, legal research, economic
+studies, and source summaries.
 
 Research should support the book but remain independently useful.
 
-⸻
-
-/Proposals
+### `Proposals/`
 
 Working drafts for:
 
-* Model legislation
-* Constitutional amendments
-* Administrative reforms
-* Election models
-* Fiscal proposals
-* Implementation plans
+- Model legislation
+- Constitutional amendments
+- Administrative reforms
+- Election models
+- Fiscal proposals
+- Implementation plans
 
-⸻
-
-/References
+### `References/`
 
 Primary and secondary source material.
 
-Whenever practical, research should reference this collection instead of duplicating source information.
+Whenever practical, research should reference this collection instead of
+duplicating source information.
 
-⸻
-
-Requirements
+### Requirements
 
 Project planning and traceability.
 
-PROJECT_REQUIREMENTS_SPECIFICATION.md is the single authoritative inventory of project scope, identifiers, work items, and completion status. No competing tracking documents shall be maintained.
+`PROJECT_REQUIREMENTS_SPECIFICATION.md` is the single authoritative inventory of
+project scope, identifiers, work items, and completion status. No competing
+tracking documents shall be maintained.
 
-⸻
-
-Project Standards
+## Project Standards
 
 All contributors shall comply with:
 
-* AGENTS.md
-* STYLE_GUIDE.md
-* PROJECT_REQUIREMENTS_SPECIFICATION.md
+- `AGENTS.md`
+- `STYLE_GUIDE.md`
+- `PROJECT_REQUIREMENTS_SPECIFICATION.md`
 
-These documents define the project’s governance, writing standards, identifiers, and quality requirements.
+These documents define the project’s governance, writing standards, identifiers,
+and quality requirements.
 
-⸻
-
-Success Criteria
+## Success Criteria
 
 The project will be considered successful if it produces:
 
-* A publishable book.
-* Independently verifiable supporting research.
-* Constitutionally grounded reform proposals.
-* A repository that is internally consistent, fully traceable, and maintainable.
-* A work that remains understandable and useful to readers across the political spectrum, regardless of whether they ultimately agree with its conclusions.
+- A publishable book.
+- Independently verifiable supporting research.
+- Constitutionally grounded reform proposals.
+- A repository that is internally consistent, fully traceable, and maintainable.
+- A work that remains understandable and useful to readers across the political
+  spectrum, regardless of whether they ultimately agree with its conclusions.
 
-⸻
-
-Long-Term Vision
+## Long-Term Vision
 
 The Practical Libertarian Framework is intended to become more than a book.
 
-It should serve as a living constitutional reference, a research archive, a collection of policy proposals, and a structured body of work capable of supporting future scholarship, legislative discussion, civic education, and constitutional analysis.
+It should serve as a living constitutional reference, a research archive, a
+collection of policy proposals, and a structured body of work capable of
+supporting future scholarship, legislative discussion, civic education, and
+constitutional analysis.
 
 Every contribution should strengthen that long-term objective.
 
-⸻
+## Motto
 
-Motto
-
-Reality before ideology.
-
-Analysis before proposal.
-
-The Constitution before politics.
+> **Reality before ideology.**
+>
+> **Analysis before proposal.**
+>
+> **The Constitution before politics.**
