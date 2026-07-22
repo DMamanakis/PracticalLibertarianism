@@ -125,7 +125,7 @@ identifiers remain stable.
 #### MC-P0-C100 - Purpose Statement
 
 - **Status:** DRAFTING
-- **File:** `00_Purpose_Statement.docx`
+- **File:** `PROJECT_CHARTER.md`
 - [x] MC-P0-C101 - State the book's governing purpose and core themes.
 - [ ] MC-P0-C102 - Review against the completed manuscript.
 
